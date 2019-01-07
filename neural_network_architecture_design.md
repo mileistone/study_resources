@@ -63,6 +63,7 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
+- [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
 # Activation function
 
