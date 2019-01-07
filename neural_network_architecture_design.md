@@ -67,3 +67,7 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 # Activation function
 
 - [1502.01852] [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) # PReLU
+
+# Weight initialization
+
+- [2018] [Residual Learning Without Normalization via Better Initialization](https://openreview.net/forum?id=H1gsz30cKX) # ZeroInit
