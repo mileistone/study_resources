@@ -54,3 +54,16 @@
 
 - [1812.08934] [ChamNet: Towards Efficient Network Design through Platform-Aware Model
 Adaptation](https://arxiv.org/abs/1812.08934)
+
+# Useful component
+
+- [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+
+- [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
+
+- [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
+
+
+# Activation function
+
+- [1502.01852] [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) # PReLU
