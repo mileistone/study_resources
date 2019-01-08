@@ -27,3 +27,7 @@
 - [2018] [Occluded Pedestrian Detection Through Guided Attention in CNNs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Occluded_Pedestrian_Detection_CVPR_2018_paper.pdf)
 
 - [2018] [Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors](http://openaccess.thecvf.com/content_cvpr_2018/papers/Noh_Improving_Occlusion_and_CVPR_2018_paper.pdf)
+
+# General object detection
+
+- [1901.01892] [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/abs/1901.01892)
