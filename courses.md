@@ -12,6 +12,10 @@
 
 # Deep learning
 
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+- [MIT Deep learning](https://deeplearning.mit.edu/)
+
 # Computer vision
 
 # NLP
