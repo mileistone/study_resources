@@ -61,6 +61,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
 
+- [1702.03275] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
+
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
 - [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
