@@ -16,6 +16,8 @@
 
 - [MIT Deep learning](https://deeplearning.mit.edu/)
 
+- [MIT Deep learning slides](https://www.dropbox.com/s/c0g3sc1shi63x3q/deep_learning_basics.pdf?dl=0)
+
 # Computer vision
 
 # NLP
