@@ -55,6 +55,8 @@
 - [1812.08934] [ChamNet: Towards Efficient Network Design through Platform-Aware Model
 Adaptation](https://arxiv.org/abs/1812.08934)
 
+- [1901.02985] [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)
+
 # Useful component
 
 - [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
