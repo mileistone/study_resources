@@ -1,3 +1,5 @@
+### 2019-02-13
+- [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/forum?id=SkfMWhAqYQ)
 
 ### 2019-01-16
 - [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407)
