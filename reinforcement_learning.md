@@ -1,0 +1,5 @@
+- http://karpathy.github.io/2016/05/31/rl/
+- http://rail.eecs.berkeley.edu/deeprlcourse/
+- http://web.stanford.edu/class/cs234/index.html
+- http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+- http://incompleteideas.net/book/the-book-2nd.html
