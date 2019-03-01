@@ -2,7 +2,11 @@
 
 - Required
 
-[Course] [Stanford CS229](http://cs229.stanford.edu/syllabus.html)
+[Course] [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
+
+[Course] [Bloomberg: Foundation of Machine Learning](https://bloomberg.github.io/foml/#home)
+
+[Course] [Google: Machine Learning](https://developers.google.com/machine-learning/crash-course/)
 
 - Recommended but not required
 
