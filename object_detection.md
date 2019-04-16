@@ -31,3 +31,7 @@
 # General object detection
 
 - [1901.01892] [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/abs/1901.01892)
+
+## Anchor free
+
+- [1904.03797][FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/abs/1904.03797v1)
