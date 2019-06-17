@@ -49,11 +49,11 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 ## Occlusion
 
-- [ECCV2018] [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.html)
-
 - [CVPR2018] [Occluded Pedestrian Detection Through Guided Attention in CNNs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Occluded_Pedestrian_Detection_CVPR_2018_paper.pdf)
 
 - [CVPR2018] [Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors](http://openaccess.thecvf.com/content_cvpr_2018/papers/Noh_Improving_Occlusion_and_CVPR_2018_paper.pdf)
+
+- [ECCV2018] [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.html)
 
 # General object detection
 
