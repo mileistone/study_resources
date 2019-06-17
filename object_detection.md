@@ -2,6 +2,11 @@
 
 ## General
 
+- [CVPR2019] [High-level Semantic Feature Detection:
+A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf)
+
+- [CVPR2019] [Pedestrian Detection with Autoregressive Network Phases](http://openaccess.thecvf.com/content_CVPR_2019/papers/Brazil_Pedestrian_Detection_With_Autoregressive_Network_Phases_CVPR_2019_paper.pdf)
+
 - [2018] [Pedestrian-Detection-Sources](https://www.starlg.cn/2018/08/17/Pedestrian-Detection-Sources/)
 
 - [2018] [Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Liu_Learning_Efficient_Single-stage_ECCV_2018_paper.pdf)
@@ -17,6 +22,8 @@
 
 
 ## Crowd
+
+- [CVPR2019] [Adaptive NMS: Refining Pedestrian Detection in a Crowd](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf)
 
 - [1711.07752] [Repulsion Loss: Detecting Pedestrians in a Crowd](https://arxiv.org/abs/1711.07752)
 
