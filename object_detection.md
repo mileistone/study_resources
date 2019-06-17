@@ -1,5 +1,15 @@
 # Pedestrain detection
 
+## Dataset
+
+- [CityPersons] [CityPersons: A Diverse Dataset for Pedestrian Detection](https://arxiv.org/abs/1702.05693)
+
+- [Caltech] [Pedestrian Detection:
+An Evaluation of the State of the Art](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/files/PAMI12pedestrians.pdf)
+
+- [CrowdHuman] [CrowdHuman: A Benchmark for Detecting Human in a Crowd
+](https://arxiv.org/pdf/1805.00123.pdf)
+
 ## General
 
 - [CVPR2019] [High-level Semantic Feature Detection:
@@ -10,6 +20,8 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 - [2018] [Pedestrian-Detection-Sources](https://www.starlg.cn/2018/08/17/Pedestrian-Detection-Sources/)
 
 - [2018] [Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Liu_Learning_Efficient_Single-stage_ECCV_2018_paper.pdf)
+
+- [CVPR2017] [Illuminating pedestrians via simultaneous detection & segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Brazil_Illuminating_Pedestrians_via_ICCV_2017_paper.pdf)
 
 - [1602.01237] [How Far are We from Solving Pedestrian Detection](https://arxiv.org/abs/1602.01237)
 
@@ -24,6 +36,8 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 ## Crowd
 
 - [CVPR2019] [Adaptive NMS: Refining Pedestrian Detection in a Crowd](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf)
+
+- [CVPR2018] [Occlusion-aware R-CNN: detecting pedestrians in a crowd](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf)
 
 - [1711.07752] [Repulsion Loss: Detecting Pedestrians in a Crowd](https://arxiv.org/abs/1711.07752)
 
