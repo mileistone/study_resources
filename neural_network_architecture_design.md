@@ -61,6 +61,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 # Useful component
 
+- [1904.05049] [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](https://arxiv.org/pdf/1904.05049) # Octave conv 
+
 - [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 
 - [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
@@ -80,6 +82,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 - [2018] [Residual Learning Without Normalization via Better Initialization](https://openreview.net/forum?id=H1gsz30cKX) # ZeroInit
 
 # Feature fusion
+
+- [CVPR2019] [Nas-fpn: Learning scalable feature pyramid architecture for object detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghiasi_NAS-FPN_Learning_Scalable_Feature_Pyramid_Architecture_for_Object_Detection_CVPR_2019_paper.pdf)
 
 - [CVPR2017] [Feature pyramid networks for object detection](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html)
 
