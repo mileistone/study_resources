@@ -43,3 +43,9 @@
 [Course] [Stanford CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/schedule.html)
 
 [Book] [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf)
+
+### Convolutional neural networks
+
+- Required
+
+[Misc] [A technical report on convolution arithmetic in the context of deep learning](https://github.com/vdumoulin/conv_arithmetic)
