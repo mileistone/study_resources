@@ -78,3 +78,13 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 # Weight initialization
 
 - [2018] [Residual Learning Without Normalization via Better Initialization](https://openreview.net/forum?id=H1gsz30cKX) # ZeroInit
+
+# Feature fusion
+
+- [CVPR2017] [Feature pyramid networks for object detection](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html)
+
+- [1804.02767] [Yolov3: An incremental improvement](https://arxiv.org/abs/1804.02767)
+
+- [TPAMI2017] [Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs](https://arxiv.org/pdf/1606.00915) # ASPP
+
+- [1706.05587] [Rethinking atrous convolution for semantic image segmentation](https://arxiv.org/pdf/1706.05587) # PSP
