@@ -17,19 +17,13 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 - [CVPR2019] [Pedestrian Detection with Autoregressive Network Phases](http://openaccess.thecvf.com/content_CVPR_2019/papers/Brazil_Pedestrian_Detection_With_Autoregressive_Network_Phases_CVPR_2019_paper.pdf)
 
----
-
 - [2018] [Pedestrian-Detection-Sources](https://www.starlg.cn/2018/08/17/Pedestrian-Detection-Sources/)
 
 - [ECCV2018] [Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Liu_Learning_Efficient_Single-stage_ECCV_2018_paper.pdf)
 
----
-
 - [CVPR2017] [Illuminating pedestrians via simultaneous detection & segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Brazil_Illuminating_Pedestrians_via_ICCV_2017_paper.pdf)
 
 - [CVPR2017] [What Can Help Pedestrian Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mao_What_Can_Help_CVPR_2017_paper.pdf)
-
----
 
 - [CVPR2016] [How Far are We from Solving Pedestrian Detection](https://arxiv.org/abs/1602.01237)
 
@@ -40,8 +34,6 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 ## Crowd
 
 - [CVPR2019] [Adaptive NMS: Refining Pedestrian Detection in a Crowd](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf)
-
----
 
 - [CVPR2018] [Occlusion-aware R-CNN: detecting pedestrians in a crowd](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf)
 
@@ -55,10 +47,30 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 - [ECCV2018] [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](http://openaccess.thecvf.com/content_ECCV_2018/html/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.html)
 
+---
+
+# Face detection
+
+- [1604.02878] [Joint face detection and alignment using multitask cascaded convolutional networks](https://arxiv.org/abs/1604.02878)
+
+---
+
 # General object detection
 
 - [1901.01892] [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/abs/1901.01892)
 
+- [CVPR2019] [Deformable convnets v2: More deformable, better results](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Deformable_ConvNets_V2_More_Deformable_Better_Results_CVPR_2019_paper.pdf)
+
+- [CVPR2018] [Cascade r-cnn: Delving into high quality object detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)
+
+- [CVPR2018] [An analysis of scale invariance in object detection snip](http://openaccess.thecvf.com/content_cvpr_2018/papers/Singh_An_Analysis_of_CVPR_2018_paper.pdf)
+
+- [NIPS2018] [SNIPER: Efficient multi-scale training](http://papers.nips.cc/paper/8143-sniper-efficient-multi-scale-training.pdf)
+
+- [CVPR2017] [Deformable convolutional networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)
+
 ## Anchor free
 
 - [1904.03797][FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/abs/1904.03797v1)
+
+
