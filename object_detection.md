@@ -51,11 +51,15 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 # Face detection
 
+- [1805.03363] [Anchor Cascade for Efficient Face Detection](https://arxiv.org/abs/1805.03363)
+
 - [1604.02878] [Joint face detection and alignment using multitask cascaded convolutional networks](https://arxiv.org/abs/1604.02878)
 
 ---
 
 # General object detection
+
+- [CVPR2019] [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/pdf/1901.07518)
 
 - [1901.01892] [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/abs/1901.01892)
 
