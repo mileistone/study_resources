@@ -87,6 +87,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [CVPR2018] [Path aggregation network for instance segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Path_Aggregation_Network_CVPR_2018_paper.pdf) # PANet
 
+- [CVPR2018] [Simple baselines for human pose estimation and tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.pdf)
+
 - [CVPR2017] [Feature pyramid networks for object detection](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html)
 
 - [1804.02767] [Yolov3: An incremental improvement](https://arxiv.org/abs/1804.02767)
