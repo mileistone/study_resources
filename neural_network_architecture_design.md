@@ -85,7 +85,7 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [CVPR2019] [Nas-fpn: Learning scalable feature pyramid architecture for object detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghiasi_NAS-FPN_Learning_Scalable_Feature_Pyramid_Architecture_for_Object_Detection_CVPR_2019_paper.pdf)
 
-- [CVPR2018] [Path aggregation network for instance segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Path_Aggregation_Network_CVPR_2018_paper.pdf)
+- [CVPR2018] [Path aggregation network for instance segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Path_Aggregation_Network_CVPR_2018_paper.pdf) # PANet
 
 - [CVPR2017] [Feature pyramid networks for object detection](http://openaccess.thecvf.com/content_cvpr_2017/html/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.html)
 
