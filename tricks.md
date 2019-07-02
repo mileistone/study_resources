@@ -1,5 +1,7 @@
 # General
 
+- [1906.11172] [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/abs/1906.11172)
+
 - [1805.09501] [Autoaugment: Learning augmentation policies from data](https://arxiv.org/pdf/1805.09501)
 
 - [CVPR2019] [Bag of tricks for image classification with convolutional neural networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
