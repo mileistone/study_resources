@@ -9,3 +9,19 @@
 - [1902.04103] [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/abs/1902.04103)
 
 - [GluonCV2018] [Deep dive into SSD training: 3 tips to boost performance¶](https://gluon-cv.mxnet.io/build/examples_detection/train_ssd_advanced.html)
+
+- random erase
+
+- mix up
+
+- drop block
+
+- deformable conv
+
+- label smooth
+
+- multi-scale training
+
+- multi-scale testing
+
+- flip testing
