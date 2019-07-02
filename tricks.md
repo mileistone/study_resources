@@ -25,3 +25,7 @@
 - multi-scale testing
 
 - flip testing
+
+- sgdr
+
+- warmup
