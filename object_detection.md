@@ -59,7 +59,7 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 # General object detection
 
-- [CVPR2019] [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/pdf/1901.07518)
+- [CVPR2019] [Assisted Excitation of Activations: A Learning Technique to Improve Object Detectors](http://openaccess.thecvf.com/content_CVPR_2019/papers/Derakhshani_Assisted_Excitation_of_Activations_A_Learning_Technique_to_Improve_Object_CVPR_2019_paper.pdf)
 
 - [1901.01892] [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/abs/1901.01892)
 
@@ -75,6 +75,13 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 ## Anchor free
 
-- [1904.03797][FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/abs/1904.03797v1)
+- [1903.00621] [Feature selective anchor-free module for single-shot object detection](https://arxiv.org/abs/1903.00621)
 
+- [1904.01355] [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355)
 
+- [1904.13300] [Segmentation is All You Need](https://arxiv.org/abs/1904.13300)
+
+- [1904.03797] [FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/abs/1904.03797v1)
+
+- [1509.04874] [DenseBox: Unifying Landmark Localization with
+End to End Object Detection](https://arxiv.org/pdf/1509.04874)
