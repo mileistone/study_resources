@@ -2,6 +2,10 @@
 
 ## Efficient
 
+- [1907.05047] [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047)
+
+- [1807.03284] [Pooling pyramid network for object detection](https://arxiv.org/abs/1807.03284)
+
 - [1608.08021] [PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1608.08021)
 
 - [1610.02357] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
