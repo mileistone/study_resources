@@ -53,6 +53,8 @@
 
 - [1905.11946] [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 
+- [1905.02244] [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
+
 - [1901.02985] [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)
 
 - [1812.08934] [ChamNet: Towards Efficient Network Design through Platform-Aware Model
