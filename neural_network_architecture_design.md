@@ -82,6 +82,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
+- [1904.11486] [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
+
 # Activation function
 
 - [1502.01852] [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) # PReLU
