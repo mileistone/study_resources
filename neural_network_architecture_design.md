@@ -70,19 +70,22 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 # Useful component
 
+- [1904.11486] [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
+
 - [1904.05049] [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](https://arxiv.org/pdf/1904.05049) # Octave conv 
 
-- [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
-
-- [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
-
-- [1702.03275] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
+- [1805.12177] [Why do deep convolutional networks generalize so
+poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
 - [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 
-- [1904.11486] [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
+- [1702.03275] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
+
+- [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
+
+- [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 
 # Activation function
 
