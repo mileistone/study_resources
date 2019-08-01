@@ -1,6 +1,8 @@
 ### 2019-08-01
 - [An embarrassingly simple approach to neural multiple instance classification](https://arxiv.org/abs/1905.01947)
 
+- [A 2019 Guide to Semantic Segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
+
 ### 2019-02-13
 - [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/forum?id=SkfMWhAqYQ)
 
