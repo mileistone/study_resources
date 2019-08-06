@@ -1,3 +1,6 @@
+### 2019-08-06
+- [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
+
 ### 2019-08-01
 - [An embarrassingly simple approach to neural multiple instance classification](https://arxiv.org/abs/1905.01947)
 
