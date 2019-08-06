@@ -24,6 +24,8 @@
 
 [Book] [Deep Learning](https://www.deeplearningbook.org/)
 
+[Blog] [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+
 - Recommended but not required
 
 [Course] [Illinois CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
