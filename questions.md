@@ -54,7 +54,7 @@
 - receptive field calculation
 - why we don't need bias in conv when networks are pluged in bn
 - backpropagation of pooling layer and bn
-- exponential_moving_average
+- exponential moving average
 - translation invariance and translation equalvariance
 - the implementation of dilated conv in tf
 
