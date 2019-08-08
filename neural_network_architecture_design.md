@@ -77,6 +77,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 - [1805.12177] [Why do deep convolutional networks generalize so
 poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
+- [1805.11604] [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
+
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
 - [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
