@@ -37,7 +37,8 @@
 - how to choose the data augmentation method
 
 ### General
-- difference between all kinds of norm(in, ln, bn, gn)
+- difference between all kinds of norm(in, ln, bn, gn, bn+gn)
+- how to get better results for bn besides using larger batch size
 - bn vs se
 - alpha in bn, how to prune network using alpha
 - bn vs whitening
