@@ -33,6 +33,9 @@
 
 ## Deep Learning
 
+### data augmentation
+- how to choose the data augmentation method
+
 ### General
 - difference between all kinds of norm(in, ln, bn, gn)
 - bn vs se
