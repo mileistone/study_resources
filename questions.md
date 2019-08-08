@@ -23,8 +23,6 @@
 - cross entropy loss and softmax
 - cross entropy loss vs mse
 
-
-
 ### Optimization
 
 - first-order optimization or second-order optimization algorithm
@@ -57,6 +55,7 @@
 - exponential moving average
 - translation invariance and translation equalvariance
 - the implementation of dilated conv in tf
+- why no bn in fc layer
 
 ### Object detection 
 - one stage vs two stage
