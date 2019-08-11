@@ -63,9 +63,11 @@
 - translation invariance and translation equalvariance
 - the implementation of dilated conv in tf
 - why no bn in fc layer
+- resnetv1 -> resnetv2 (preactivation)
 - how to improve downsample block of resnet
-- how to design an efficient network(perspective of hardware and architecture)
-- features of network architecture
+- how to design an efficient network(perspective of hardware and architecture, head, tail, body, block, downsample module)
+- features of efficient network architecture
+- classifier to detector
 
 ### Object detection 
 - one stage vs two stage
