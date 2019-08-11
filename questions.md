@@ -91,7 +91,7 @@
 # Programming basics
 - leetcode
 - copy vs deepcopy in python
-- *((*int)(&(int a = 2;)))
+- *((*float)(&(int a = 2;)))
 - 0.35 / 0.05
 
 # Linux basics
