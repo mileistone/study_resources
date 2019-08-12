@@ -1,5 +1,11 @@
 # Handcrafted
 
+## Network pruning
+
+- [1903.05134] [Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
+
+- [1812.08928] [Slimmable Neural Networks](https://arxiv.org/abs/1812.08928)
+
 ## Efficient
 
 - [1907.05047] [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047)
@@ -54,6 +60,8 @@
 - [1905.11946] [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 
 - [1905.02244] [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
+
+- [1903.11728] [AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
 
 - [1901.02985] [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)
 
