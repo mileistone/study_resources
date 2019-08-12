@@ -11,6 +11,7 @@
 - TP, FP, TN, FN
 - precision, recall, accuracy
 - AP, mAP
+- why threre are so many performance measures, such as AP, mAP, FPPI, MR etc.
 
 ### Representation
 - lr vs svm vs decision tree vs dnn
@@ -68,6 +69,7 @@
 - how to design an efficient network(perspective of hardware and architecture, head, tail, body, block, downsample module)
 - features of efficient network architecture
 - classifier to detector
+- reorg(space2conv) implemented by conv
 
 ### Object detection 
 - one stage vs two stage
