@@ -24,7 +24,7 @@
 
 ### Evaluation
 - loss
-- cross entropy loss and softmax
+- cross entropy loss and softmax(how to implement)
 - cross entropy loss vs mse
 
 ### Optimization
