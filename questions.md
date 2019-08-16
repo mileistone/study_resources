@@ -11,7 +11,7 @@
 - TP, FP, TN, FN
 - precision, recall, accuracy
 - AP, mAP
-- why threre are so many performance measures, such as AP, mAP, FPPI, MR etc.
+- why threre are so many performance measures, such as AP, mAP, MR etc.
 
 ### Representation
 - lr vs svm vs decision tree vs dnn
