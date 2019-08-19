@@ -87,11 +87,17 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 - [1805.12177] [Why do deep convolutional networks generalize so
 poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
+- [1807.06521] [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521)
+
+
 - [1805.11604] [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
 
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
 - [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+
+- [1703.02719] [Large Kernel Matters ——
+Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) #GCN
 
 - [1702.03275] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
 
