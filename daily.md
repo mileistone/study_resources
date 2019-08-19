@@ -1,3 +1,7 @@
+### 2019-08-19
+
+- [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
+
 ### 2019-08-06
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
