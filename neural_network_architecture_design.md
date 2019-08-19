@@ -10,6 +10,8 @@
 
 - [1907.05047] [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047)
 
+- [1903.11752] [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752)
+
 - [1807.03284] [Pooling pyramid network for object detection](https://arxiv.org/abs/1807.03284)
 
 - [1608.08021] [PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1608.08021)
