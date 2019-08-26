@@ -105,6 +105,8 @@ Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org
 
 - [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 
+- [1412.6806] [Striving for Simplicity: The All Convolutional Net](https://arxiv.org/abs/1412.6806)
+
 # Activation function
 
 - [1502.01852] [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) # PReLU
