@@ -80,6 +80,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 # Useful component
 
+- [1908.01259] [Attentive Normalization](https://arxiv.org/abs/1908.01259)
+
 - [1906.02629] [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)
 
 - [1905.11001] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://arxiv.org/abs/1905.11001)
