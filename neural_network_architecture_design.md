@@ -80,15 +80,22 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 # Useful component
 
+- [1906.02629] [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)
+
+- [1905.11001] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://arxiv.org/abs/1905.11001)
+
 - [1904.11486] [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
 
 - [1904.05049] [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](https://arxiv.org/pdf/1904.05049) # Octave conv 
 
-- [1805.12177] [Why do deep convolutional networks generalize so
-poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
+- [1904.04971] [Soft Conditional Computation](https://arxiv.org/abs/1904.04971)
+
+- [1810.12890] [DropBlock: A regularization method for convolutional networks](https://arxiv.org/abs/1810.12890)
 
 - [1807.06521] [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521)
 
+- [1805.12177] [Why do deep convolutional networks generalize so
+poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
 - [1805.11604] [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
 
