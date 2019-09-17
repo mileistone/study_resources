@@ -29,3 +29,5 @@
 - sgdr
 
 - warmup
+
+- [mix match](https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/107716)
