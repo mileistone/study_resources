@@ -59,6 +59,8 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 # General object detection
 
+- [1906.09756] [Cascade R-CNN: High Quality Object Detection and Instance Segmentation](https://arxiv.org/abs/1906.09756)
+
 - [CVPR2019] [Assisted Excitation of Activations: A Learning Technique to Improve Object Detectors](http://openaccess.thecvf.com/content_CVPR_2019/papers/Derakhshani_Assisted_Excitation_of_Activations_A_Learning_Technique_to_Improve_Object_CVPR_2019_paper.pdf)
 
 - [1901.01892] [Scale-Aware Trident Networks for Object Detection](https://arxiv.org/abs/1901.01892)
