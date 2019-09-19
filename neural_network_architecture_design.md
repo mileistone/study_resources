@@ -114,6 +114,8 @@ Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org
 
 - [1702.03275] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
 
+- [1611.07661] [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
+
 - [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
 
 - [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
