@@ -1,4 +1,6 @@
 
+- [1901.02446] [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446) # FPN
+
 - [1802.02611] [Encoder-Decoder with Atrous Separable
 Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) # deeplabv3 plus
 
