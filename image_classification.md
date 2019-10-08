@@ -1,0 +1,1 @@
+- [1704.03373] [Quality Aware Network for Set to Set Recognition](https://arxiv.org/pdf/1704.03373)
