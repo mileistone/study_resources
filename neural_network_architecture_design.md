@@ -8,11 +8,31 @@
 
 ## Efficient
 
+- [1910.01271] [YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection](https://arxiv.org/abs/1910.01271)
+
 - [1907.05047] [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047)
 
 - [1903.11752] [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752)
 
+- [1807.11164] [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)
+
 - [1807.03284] [Pooling pyramid network for object detection](https://arxiv.org/abs/1807.03284)
+
+- [1805.06361] [Object detection at 200 Frames Per Second](https://arxiv.org/abs/1805.06361) # F-YOLO
+
+- [1804.06882] [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882)
+
+- [1803.10615] [SqueezeNext: Hardware-Aware Neural Network Design](https://arxiv.org/abs/1803.10615)
+
+- [1801.04381] [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
+
+- [1711.07264] [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264)
+
+- [1708.05234] [FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/abs/1708.05234)
+
+- [1707.01083] [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
+
+- [1704.04861] [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
 - [1608.08021] [PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1608.08021)
 
@@ -20,23 +40,11 @@
 
 - [1612.08242] [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 
-- [1704.04861] [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
-
-- [1707.01083] [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
-
-- [1708.05234] [FaceBoxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/abs/1708.05234)
-
-- [1711.07264] [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264)
-
-- [1801.04381] [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
-
-- [1803.10615] [SqueezeNext: Hardware-Aware Neural Network Design](https://arxiv.org/abs/1803.10615)
-
-- [1807.11164] [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/abs/1807.11164)
-
 ## High accuracy
 
 - [1909.03625] [CBNet: A Novel Composite Backbone Network Architecture for Object Detection](https://arxiv.org/abs/1909.03625)
+
+- [1904.01169] [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/abs/1904.01169)
 
 - [1804.02767] [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
 
@@ -72,11 +80,11 @@
 - [1812.08934] [ChamNet: Towards Efficient Network Design through Platform-Aware Model
 Adaptation](https://arxiv.org/abs/1812.08934)
 
+- [1812.03443] [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
+
 - [1812.00332] [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332)
 
 - [1807.11626] [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
-
-- [1812.03443] [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
 
 - [1707.07012] [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 
@@ -96,6 +104,8 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [1811.11718] [Partial Convolution based Padding](https://arxiv.org/abs/1811.11718)
 
+- [1811.11168] [Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168)
+
 - [1810.12890] [DropBlock: A regularization method for convolutional networks](https://arxiv.org/abs/1810.12890)
 
 - [1807.06521] [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521)
@@ -108,6 +118,8 @@ poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
 - [1708.02002] [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+
+- [1703.06211] [Deformable Convolutional Networks](https://arxiv.org/pdf/1703.06211.pdf) | [slides](http://presentations.cocodataset.org/COCO17-Detect-MSRA.pdf) | [tutorial](https://towardsdatascience.com/review-dcn-deformable-convolutional-networks-2nd-runner-up-in-2017-coco-detection-object-14e488efce44)
 
 - [1703.02719] [Large Kernel Matters ——
 Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) #GCN
@@ -144,7 +156,7 @@ Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org
 
 - [1706.05587] [Rethinking atrous convolution for semantic image segmentation](https://arxiv.org/pdf/1706.05587) # ASPP
 
-- [CVPR2017] [Pyramid scene parsing network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf) # PSP
+- [CVPR2017] [Pyramid scene parsing network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf) # PPM
 
 - [CVPR2016] [Hypernet: Towards accurate region proposal generation and joint object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf)
 
