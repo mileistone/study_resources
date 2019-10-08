@@ -2,6 +2,7 @@
 - [Awesome semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 - [NVIDIA semantic segmentation](https://github.com/NVIDIA/semantic-segmentation)
 - [HRNet semantic segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation)
+- [CSAILVision semantic segmentation pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 
 ## Paper
 
