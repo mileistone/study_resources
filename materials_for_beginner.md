@@ -8,6 +8,8 @@
 
 [Course] [Google: Machine Learning](https://developers.google.com/machine-learning/crash-course/)
 
+[Course] [Bias and variance decomposition](https://alliance.seas.upenn.edu/~cis520/dynamic/2018/wiki/index.php?n=Lectures.BiasVariance)
+
 - Recommended but not required
 
 [Book] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) 
