@@ -1,4 +1,4 @@
-## Implementation
+## Implementations
 - [Awesome semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
 - [NVIDIA semantic segmentation](https://github.com/NVIDIA/semantic-segmentation)
@@ -11,7 +11,9 @@
 
 - [Deeplabv3+](https://github.com/jfzhang95/pytorch-deeplab-xception)
 
-## Paper
+## Papers
+
+### All kinds of models 
 
 - [1901.02446] [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446) # FPN
 
@@ -31,7 +33,7 @@ Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) #
 
 - [1412.7062] [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062) # deeplabv1
 
-## gridding issue
+### Gridding issue
 
 - [1705.09914] [Dilated Residual Networks](https://arxiv.org/abs/1705.09914)
 
