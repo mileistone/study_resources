@@ -1,5 +1,7 @@
-### 2019-08-19
+### 2019-11-01
+- [Detectron1-Comparisons](https://github.com/facebookresearch/detectron2/tree/master/configs/Detectron1-Comparisons)
 
+### 2019-08-19
 - [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 
 ### 2019-08-06
