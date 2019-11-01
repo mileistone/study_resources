@@ -35,6 +35,10 @@ Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) #
 
 ### Gridding issue
 
+- [2019] [Summary of Dilated Convolution](https://zhuanlan.zhihu.com/p/50369448)
+
+- [1808.08931] [Smoothed Dilated Convolutions for Improved Dense Prediction](https://arxiv.org/abs/1808.08931)
+
 - [1705.09914] [Dilated Residual Networks](https://arxiv.org/abs/1705.09914)
 
 - [1702.08502] [Understanding Convolution for Semantic Segmentation](https://arxiv.org/abs/1702.08502)
