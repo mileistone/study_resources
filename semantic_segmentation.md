@@ -21,6 +21,7 @@ Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) #
 - [1706.05587] [Rethinking Atrous Convolution for Semantic Image Segmentation
 ](https://arxiv.org/abs/1706.05587v3) # deeplabv3
 
+- [1703.06211] [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211) # feature alignment
 
 - [1703.02719] [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) # gcn
 
