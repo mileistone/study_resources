@@ -83,6 +83,8 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 - [1904.13300] [Segmentation is All You Need](https://arxiv.org/abs/1904.13300)
 
+- [1904.11490] [RepPoints: Point Set Representation for Object Detection](https://arxiv.org/abs/1904.11490)
+
 - [1904.03797] [FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/abs/1904.03797v1)
 
 - [1509.04874] [DenseBox: Unifying Landmark Localization with
