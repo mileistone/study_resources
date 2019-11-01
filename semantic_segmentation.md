@@ -30,3 +30,11 @@ Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) #
 - [1606.00915] [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) #  deeplabv2
 
 - [1412.7062] [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062) # deeplabv1
+
+## gridding issue
+
+- [1705.09914] [Dilated Residual Networks](https://arxiv.org/abs/1705.09914)
+
+- [1702.08502] [Understanding Convolution for Semantic Segmentation](https://arxiv.org/abs/1702.08502)
+
+- [2016] [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
