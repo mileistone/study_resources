@@ -99,7 +99,7 @@
         - 例如原本是2、2、2的dilated conv变为1、2、3的dilated conv
   - 区别与联系
     - deconv和dilated conv本身很像，一个是在特征图上插0，一个是在kernel上插0
-    - 广义的deconv是将特征图升采样（可以插0，可以插nearest，可以插bilinear）
-    - 广义的dilated conv是将kernel升采样（一般插0，如果不插0，dilated conv的优势就没了）
+    - 广义的deconv是将特征图升采样（可以插0，可以插nearest，可以插bilinear），再接普通conv
+    - 广义的dilated conv是将kernel升采样（一般插0，如果不插0，dilated conv的优势就没了），再接普通conv
     - 二者都跟采样有关，都要遵循采样定理
     - 都会因为违背conv的假设（局部相关性、空间平稳性）而出现问题
