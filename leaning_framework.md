@@ -3,12 +3,12 @@
   - 数据与模型同等重要
   - 使用一个模型之前，需要验证该模型各个模块的假设是否与数据分布一致
 - 机器学习
-  - 谷歌机器学习速成课程
-  - cs229
+  - [谷歌机器学习速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-CN)
+  - [cs229](http://cs229.stanford.edu/)
 - 计算机视觉
-  - cs231n
+  - [cs231n](http://cs231n.stanford.edu/)
 - 深度学习
-  - deep learning（花书）
+  - [deep learning](http://www.deeplearningbook.org/)
 - conv
   - 假设
     - 空间平稳
@@ -16,19 +16,19 @@
   - padding
     - 常用的zero padding会带来什么问题（从假设考虑）
     - 如何解决
-      - partial conv
+      - [partial conv](https://arxiv.org/abs/1811.11718)
     - 超参
       - valid padding和same padding区别
   - 超参
     - kernel size为何一般为奇数
     - kernel size如何设置，3一定是最优的吗
   - 增加conv表达能力
-    - attentive normalization
+    - [attentive normalization](https://arxiv.org/abs/1908.01259)
     - conditional computation
-      - soft conditional computation
+      - [soft conditional computation](https://arxiv.org/abs/1904.04971)
     - attention
-      - spatial
-      - channel
+      - [channel](https://arxiv.org/abs/1709.01507)
+      - [spatial](https://arxiv.org/abs/1807.06521)
   - 增大感受野
     - dilated conv
       - 会带来什么问题（从采样角度考虑）
@@ -41,15 +41,15 @@
 - 激活函数
   - 永久失活
   - relu带来非线性的同时也丢失了信息
-    - crelu
-    - swish
+    - [crelu](https://arxiv.org/abs/1603.05201)
+    - [swish](https://arxiv.org/abs/1710.05941)
 - 采样
-  - align corners两种情况的区别
+  - [align corners](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/upsampling.py)两种情况的区别
   - 降采样
     - 方式
-      - pooling（max、avg）、conv、reorg
+      - pooling（max、avg）、conv、[reorg](https://github.com/pjreddie/darknet/blob/master/src/rnn_layer.c)
         - 区别与联系
-    - anti alias
+    - [anti alias](https://arxiv.org/abs/1904.11486)
       - 使采样过程符合采样定理
   - 升采样
     - 不可学习
@@ -67,12 +67,12 @@
       - bn的momentum超参有何含义
       - bn的beta有何物理含义
 - translation equivariance与translation invariance
-  - 全卷积网络什么情况下具备translation equivariance特性
+  - 全卷积网络什么情况下具备[translation equivariance](https://arxiv.org/abs/1805.01217)特性
   - pooling真的能带来translation invariance吗
 - imbalance
-  - Imbalance Problems in Object Detection: A Review
+  - [Imbalance Problems in Object Detection: A Review](https://arxiv.org/abs/1909.00169)
 - 网络结构设计
-  - stem对网络前向速度的影响较大
+  - [stem对网络前向速度的影响较大](https://arxiv.org/abs/1708.05234)
   - 计算量与前向时间不成正比
   - 网络结构本身就是先验，不同任务对应不同网络结构
     - 比如速度最快的人脸检测器和行人检测器网络结构大相径庭
