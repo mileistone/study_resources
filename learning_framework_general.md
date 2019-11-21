@@ -59,15 +59,19 @@
     - 方式
       - pooling（max、avg）、conv、[reorg](https://github.com/pjreddie/darknet/blob/master/src/rnn_layer.c)
         - 区别与联系
+        - 面对具体任务场景，如何选择使用哪种降采样方法
     - [anti alias](https://arxiv.org/abs/1904.11486)
       - 使采样过程符合采样定理
   - 升采样
-    - 不可学习
-      - nearest、bilinear、bicubic等
-      - 各自异同
-    - 可学习
-      - deconv
-        - deconv可以认为是先升采样（插0的升采样）、再接普通conv的过程
+    - 方式
+      - 不可学习
+        - nearest、bilinear、bicubic等
+        - 各自异同
+      - 可学习
+        - deconv
+          - deconv可以认为是先升采样（插0的升采样）、再接普通conv的过程
+      - 各种方式的区别与联系
+      - 面对具体任务场景，如何选择使用哪种升采样方法
     - 可学习一定比不可学习方法好吗
     
 - normalization
