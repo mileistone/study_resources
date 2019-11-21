@@ -116,3 +116,21 @@
     - 广义的dilated conv是将kernel升采样（一般插0，如果不插0，dilated conv的优势就没了），再接普通conv
     - 二者都跟采样有关，都要遵循采样定理
     - 都会因为违背conv的假设（局部相关性、空间平稳性）而出现问题
+    
+  - 数据
+    - 划分
+      - train、val、test划分
+      - k fold cross validation
+    - 增强
+      - [有哪些增强方法](https://github.com/albumentations-team/albumentations)
+      - 面对具体任务，应该如何选择增强方法
+      
+  - loss
+    - 有哪些loss
+    - 面对具体任务，应该如何选择loss
+    - 分类loss能用来回归吗
+    - 回归loss能用来分类吗
+    
+  - 评价指标
+      - 有哪些评价指标
+      - 面对具体任务，应该如何选择评价指标
