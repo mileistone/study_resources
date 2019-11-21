@@ -35,6 +35,9 @@
   - 增大感受野
     - dilated conv
       - 会带来什么问题（从采样角度考虑）
+  - [feature alignment](https://arxiv.org/abs/1703.06211)
+    - kernel size、stride、padding共同影响
+    - 对dense prediction任务会有较大影响
       
 - 感受野
   - [理论感受野](https://github.com/vdumoulin/conv_arithmetic)
@@ -51,6 +54,7 @@
     
 - 采样
   - [align corners](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/upsampling.py)两种情况的区别
+    - [对点的定义不同](https://www.dropbox.com/s/o83efjejx1kfrsy/ICCV19_Detectron2.pdf?dl=0)
   - 降采样
     - 方式
       - pooling（max、avg）、conv、[reorg](https://github.com/pjreddie/darknet/blob/master/src/rnn_layer.c)
