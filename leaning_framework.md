@@ -37,10 +37,10 @@
       - 会带来什么问题（从采样角度考虑）
       
 - 感受野
-  - 理论感受野
-    - 各种模块感受野的计算
-      - conv、pooling、deconv、dilated conv、residual结构等等
-  - 有效感受野
+  - [理论感受野](https://github.com/vdumoulin/conv_arithmetic)
+    - [各种模块感受野的计算](https://github.com/vdumoulin/conv_arithmetic)
+      - [conv](https://fomoro.com/research/article/receptive-field-calculator)、pooling、deconv、dilated conv、residual结构等等
+  - [有效感受野](https://arxiv.org/abs/1701.04128)
     - 什么会影响有效感受野大小
     
 - 激活函数
