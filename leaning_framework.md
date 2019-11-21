@@ -1,0 +1,105 @@
+- 意识
+  - 模型是一系列关于数据分布的假设集合
+  - 数据与模型同等重要
+  - 使用一个模型之前，需要验证该模型各个模块的假设是否与数据分布一致
+- 机器学习
+  - 谷歌机器学习速成课程
+  - cs229
+- 计算机视觉
+  - cs231n
+- 深度学习
+  - deep learning（花书）
+- conv
+  - 假设
+    - 空间平稳
+    - 局部相关性
+  - padding
+    - 常用的zero padding会带来什么问题（从假设考虑）
+    - 如何解决
+      - partial conv
+    - 超参
+      - valid padding和same padding区别
+  - 超参
+    - kernel size为何一般为奇数
+    - kernel size如何设置，3一定是最优的吗
+  - 增加conv表达能力
+    - attentive normalization
+    - conditional computation
+      - soft conditional computation
+    - attention
+      - spatial
+      - channel
+  - 增大感受野
+    - dilated conv
+      - 会带来什么问题（从采样角度考虑）
+- 感受野
+  - 理论感受野
+    - 各种模块感受野的计算
+      - conv、pooling、deconv、dilated conv、residual结构等等
+  - 有效感受野
+    - 什么会影响有效感受野大小
+- 激活函数
+  - 永久失活
+  - relu带来非线性的同时也丢失了信息
+    - crelu
+    - swish
+- 采样
+  - align corners两种情况的区别
+  - 降采样
+    - 方式
+      - pooling（max、avg）、conv、reorg
+        - 区别与联系
+    - anti alias
+      - 使采样过程符合采样定理
+  - 升采样
+    - 不可学习
+      - nearest、bilinear、bicubic等
+      - 各自异同
+    - 可学习
+      - deconv
+        - deconv可以认为是先升采样（插0的升采样）、再普通conv的过程
+    - 可学习一定比不可学习方法好吗
+- normalization
+  - 深度学习模块里的normalization
+    - bn、gn、ln、in
+      - 各自的假设和使用场景
+      - bn与senet区别与联系
+      - bn的momentum超参有何含义
+      - bn的beta有何物理含义
+- translation equivariance与translation invariance
+  - 全卷积网络什么情况下具备translation equivariance特性
+  - pooling真的能带来translation invariance吗
+- imbalance
+  - Imbalance Problems in Object Detection: A Review
+- 网络结构设计
+  - stem对网络前向速度的影响较大
+  - 计算量与前向时间不成正比
+  - 网络结构本身就是先验，不同任务对应不同网络结构
+    - 比如速度最快的人脸检测器和行人检测器网络结构大相径庭
+      - 人脸检测器在stem部分可以快速将分辨率降下来
+      - 行人检测器在stem部分快速降低分辨率mAP会急剧下降
+  - 网络前向速度与硬件强相关
+    - 在某些硬件里，depth wise会很快，另一些则不然
+    - 小kernel堆叠不一定比大kernel快
+- 网格效应
+  - deconv
+    - 全图都会出现
+    - 插0的过程会导致空间平稳性丢失
+    - 解决方法
+      - kernel size是stride整数倍
+      - 将deconv转换为升采样（升采样过程采取nearest或者bilinear）和conv
+  - dilated conv
+    - rate太大会导致局部相关性丢失
+    - 高频部分会出现
+    - 解决方法
+      - 减少高频信息
+        - 去掉max pooling
+        - 网络最后接dilated rate小的conv
+      - 改变dilated rate配置
+        - 例如原本是2、2、2的dilated conv变为1、2、3的dilated conv
+  - 区别与联系
+    - deconv和dilated conv本身很像，一个是在特征图上插0，一个是在kernel上插0
+    - 广义的deconv是将特征图升采样（可以插0，可以插nearest，可以插bilinear）
+    - 广义的dilated conv是将kernel升采样（一般插0，如果不插0，dilated conv的优势就没了）
+    - 二者都跟采样有关，都要遵循采样定理
+    - 都会因为违背conv的假设（局部相关性、空间平稳性）而出现问题
