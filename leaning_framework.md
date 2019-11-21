@@ -2,13 +2,17 @@
   - 模型是一系列关于数据分布的假设集合
   - 数据与模型同等重要
   - 使用一个模型之前，需要验证该模型各个模块的假设是否与数据分布一致
+  
 - 机器学习
   - [谷歌机器学习速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-CN)
   - [cs229](http://cs229.stanford.edu/)
+  
 - 计算机视觉
   - [cs231n](http://cs231n.stanford.edu/)
+  
 - 深度学习
   - [deep learning](http://www.deeplearningbook.org/)
+  
 - conv
   - 假设
     - 空间平稳
@@ -17,8 +21,7 @@
     - 常用的zero padding会带来什么问题（从假设考虑）
     - 如何解决
       - [partial conv](https://arxiv.org/abs/1811.11718)
-    - 超参
-      - valid padding和same padding区别
+    - valid padding和same padding区别
   - 超参
     - kernel size为何一般为奇数
     - kernel size如何设置，3一定是最优的吗
@@ -32,17 +35,20 @@
   - 增大感受野
     - dilated conv
       - 会带来什么问题（从采样角度考虑）
+      
 - 感受野
   - 理论感受野
     - 各种模块感受野的计算
       - conv、pooling、deconv、dilated conv、residual结构等等
   - 有效感受野
     - 什么会影响有效感受野大小
+    
 - 激活函数
   - 永久失活
   - relu带来非线性的同时也丢失了信息
     - [crelu](https://arxiv.org/abs/1603.05201)
     - [swish](https://arxiv.org/abs/1710.05941)
+    
 - 采样
   - [align corners](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/upsampling.py)两种情况的区别
   - 降采样
@@ -59,6 +65,7 @@
       - deconv
         - deconv可以认为是先升采样（插0的升采样）、再普通conv的过程
     - 可学习一定比不可学习方法好吗
+    
 - normalization
   - 深度学习模块里的normalization
     - bn、gn、ln、in
@@ -66,11 +73,14 @@
       - bn与senet区别与联系
       - bn的momentum超参有何含义
       - bn的beta有何物理含义
+      
 - translation equivariance与translation invariance
   - 全卷积网络什么情况下具备[translation equivariance](https://arxiv.org/abs/1805.01217)特性
   - pooling真的能带来translation invariance吗
+  
 - imbalance
   - [Imbalance Problems in Object Detection: A Review](https://arxiv.org/abs/1909.00169)
+  
 - 网络结构设计
   - [stem对网络前向速度的影响较大](https://arxiv.org/abs/1708.05234)
   - 计算量与前向时间不成正比
@@ -81,6 +91,7 @@
   - 网络前向速度与硬件强相关
     - 在某些硬件里，depth wise会很快，另一些则不然
     - 小kernel堆叠不一定比大kernel快
+    
 - 网格效应
   - [deconv](https://distill.pub/2016/deconv-checkerboard/)
     - 全图都会出现
