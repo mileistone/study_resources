@@ -82,7 +82,7 @@
     - 在某些硬件里，depth wise会很快，另一些则不然
     - 小kernel堆叠不一定比大kernel快
 - 网格效应
-  - deconv
+  - [deconv](https://distill.pub/2016/deconv-checkerboard/)
     - 全图都会出现
     - 插0的过程会导致空间平稳性丢失
     - 解决方法
@@ -92,10 +92,11 @@
     - rate太大会导致局部相关性丢失
     - 高频部分会出现
     - 解决方法
-      - 减少高频信息
+      - [减少高频信息](https://arxiv.org/abs/1705.09914)
         - 去掉max pooling
         - 网络最后接dilated rate小的conv
-      - 改变dilated rate配置
+        - 去掉最后层的residual结构，防止高频信号传播到后面
+      - [改变dilated rate配置](https://arxiv.org/abs/1702.08502)
         - 例如原本是2、2、2的dilated conv变为1、2、3的dilated conv
   - 区别与联系
     - deconv和dilated conv本身很像，一个是在特征图上插0，一个是在kernel上插0
