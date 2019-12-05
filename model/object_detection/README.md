@@ -79,6 +79,8 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 - [NIPS2018] [SNIPER: Efficient multi-scale training](http://papers.nips.cc/paper/8143-sniper-efficient-multi-scale-training.pdf)
 
+- [1803.01534] [Path Aggregation Network for Instance Segmentation](https://arxiv.org/abs/1803.01534)
+
 - [CVPR2017] [Deformable convolutional networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)
 
 ## Anchor free
