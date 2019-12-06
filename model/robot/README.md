@@ -1,0 +1,1 @@
+- [1909.11730] ["Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks via Reward Shaping](https://arxiv.org/abs/1909.11730)
