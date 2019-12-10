@@ -73,6 +73,8 @@
 
 - [1905.02244] [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
 
+- [1904.01569] [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
+
 - [1903.11728] [AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
 
 - [1901.02985] [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)
