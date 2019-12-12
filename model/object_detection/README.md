@@ -91,6 +91,13 @@ A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content
 
 - [1904.11490] [RepPoints: Point Set Representation for Object Detection](https://arxiv.org/abs/1904.11490)
 
+## Analysis
+
+- [1911.12451] [Empirical Upper Bound in Object Detection and More](https://arxiv.org/abs/1911.12451)
+
+- [1810.04002] [Decoupled Classification Refinement: Hard
+False Positive Suppression for Object Detection](https://arxiv.org/abs/1810.04002)
+
 - [1904.03797] [FoveaBox: Beyond Anchor-based Object Detector](https://arxiv.org/abs/1904.03797v1)
 
 - [1509.04874] [DenseBox: Unifying Landmark Localization with
