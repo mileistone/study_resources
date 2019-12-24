@@ -1,0 +1,11 @@
+- ROI
+  - ROI pooling
+  - ROI Align
+  - [Adaptive feature pooling](https://arxiv.org/abs/1803.01534)
+  
+- position prediction
+  - fc
+  - heat map
+    - fc reshape
+    - conv
+    - [fc and conv fusion](https://arxiv.org/abs/1803.01534)
