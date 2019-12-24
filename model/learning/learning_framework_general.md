@@ -75,6 +75,9 @@
     - 可学习一定比不可学习方法好吗
     
 - normalization
+  - vector normalizaion
+    - softmax
+    - [fast normalized](https://arxiv.org/abs/1911.09070)
   - feature normalization
     - bn、gn、ln、in
       - 各自的假设和使用场景
@@ -83,6 +86,7 @@
       - bn的beta有何物理含义
   - loss normalization
     - [batch wise, sample wise](https://gluon-cv.mxnet.io/build/examples_detection/train_ssd_advanced.html)
+    
 - translation equivariance与translation invariance
   - 全卷积网络什么情况下具备[translation equivariance](https://arxiv.org/abs/1805.01217)特性
   - pooling真的能带来translation invariance吗
@@ -107,6 +111,12 @@
   - [网络前向速度与硬件强相关](https://arxiv.org/abs/1812.00332)
     - 在某些硬件里，depth wise会很快，另一些则不然
     - 小kernel堆叠不一定比大kernel快
+  - scalable
+    - [resolution、width、depth](https://arxiv.org/abs/1905.11946)
+  - neck
+    - fpn
+    - [bifpn](https://arxiv.org/abs/1911.09070)
+    - [aug-fpn](https://arxiv.org/abs/1803.01534)
     
 - 网格效应
   - [deconv](https://distill.pub/2016/deconv-checkerboard/)
