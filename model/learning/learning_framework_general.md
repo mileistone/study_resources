@@ -38,6 +38,9 @@
   - [feature alignment](https://arxiv.org/abs/1703.06211)
     - kernel size、stride、padding共同影响
     - 对dense prediction任务会有较大影响
+   
+  - over-parameterized
+    - [acnet](https://arxiv.org/abs/1908.03930)
       
 - 感受野
   - [理论感受野](https://github.com/vdumoulin/conv_arithmetic)
@@ -113,6 +116,7 @@
     - 小kernel堆叠不一定比大kernel快
   - scalable
     - [resolution、width、depth](https://arxiv.org/abs/1905.11946)
+    - [cbnet](https://arxiv.org/abs/1909.03625)
   - neck
     - fpn
     - [bifpn](https://arxiv.org/abs/1911.09070)
