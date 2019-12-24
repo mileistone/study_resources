@@ -1,7 +1,7 @@
-- ROI
-  - ROI pooling
-  - ROI Align
-  - [Adaptive feature pooling](https://arxiv.org/abs/1803.01534)
+- roi
+  - roi pooling
+  - roi align
+  - [adaptive feature pooling](https://arxiv.org/abs/1803.01534)
   
 - position prediction
   - fc
