@@ -15,6 +15,8 @@
 
 ### All kinds of models 
 
+- [1912.08193] [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193)
+
 - [1901.02446] [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446) # FPN
 
 - [1802.02611] [Encoder-Decoder with Atrous Separable
