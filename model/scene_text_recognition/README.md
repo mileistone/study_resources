@@ -24,4 +24,10 @@ A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/a
 - [ECCV2018] [Synthetically Supervised Feature Learning for
 Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
+- [TPAMI2018] [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
+](https://www.researchgate.net/publication/325993414_ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification)
+
+- [1603.03915] [Robust Scene Text Recognition with Automatic Rectification
+](https://arxiv.org/abs/1603.03915)
+
 - [2008] [An Overview of the Tesseract OCR Engine](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/33418.pdf)
