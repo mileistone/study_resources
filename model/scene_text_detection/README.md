@@ -2,4 +2,7 @@
 
 - [1904.01941] [Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941)
 
+- [1807.01544] [TextSnake: A Flexible Representation for
+Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544)
+
 - [1704.03155] [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)
