@@ -87,6 +87,7 @@
       - bn与senet区别与联系
       - bn的momentum超参有何含义
       - bn的beta有何物理含义
+    - frn[https://arxiv.org/abs/1911.09737]
   - loss normalization
     - [batch wise, sample wise](https://gluon-cv.mxnet.io/build/examples_detection/train_ssd_advanced.html)
     
