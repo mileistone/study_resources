@@ -21,6 +21,8 @@ The Deep Learning Era](https://arxiv.org/abs/1811.04256)
 - [1811.00751] [Show, Attend and Read:
 A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751)
 
+- [1805.03384] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
+
 - [ECCV2018] [Synthetically Supervised Feature Learning for
 Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
