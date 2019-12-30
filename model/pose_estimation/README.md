@@ -2,6 +2,8 @@
 
 ### Multi person
 
+- [1908.09220] [Single-Stage Multi-Person Pose Machines](https://arxiv.org/abs/1908.09220)
+
 - [1807.04067] [MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network](https://arxiv.org/abs/1807.04067)
 
 ### Single person
