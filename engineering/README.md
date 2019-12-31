@@ -1,5 +1,9 @@
 [Bash manual](https://www.gnu.org/software/bash/manual/bash.html)
 
+[Sed manual](https://www.gnu.org/software/sed/manual/sed.html)
+
+[Awk manual](https://www.tutorialspoint.com/awk/index.htm)
+
 [Vim tutorial](https://coolshell.cn/articles/5426.html)
 
 [Vim books](https://iccf-holland.org/vim_books.html)
