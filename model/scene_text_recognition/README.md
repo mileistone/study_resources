@@ -5,6 +5,8 @@
 
 ## Paper
 
+- [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
+
 - [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
 
 - [AAAI2019] [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508)
