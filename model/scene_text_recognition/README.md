@@ -5,11 +5,17 @@
 
 ## Paper
 
+- [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
+
+- [AAAI2019] [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508)
+
 - [ICCV2019] [Symmetry-Constrained Rectification Network for Scene Text Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
 
 - [ICCV2019] [GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 
 - [CVPR2019] [ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
+
+- [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
 
 - [1910.05085] [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085)
 
