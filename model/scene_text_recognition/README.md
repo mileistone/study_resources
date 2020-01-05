@@ -37,6 +37,8 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 - [TPAMI2018] [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
 ](https://www.researchgate.net/publication/325993414_ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification)
 
+- [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
+
 - [1603.03915] [Robust Scene Text Recognition with Automatic Rectification
 ](https://arxiv.org/abs/1603.03915)
 
