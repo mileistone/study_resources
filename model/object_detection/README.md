@@ -12,6 +12,8 @@ An Evaluation of the State of the Art](http://www.vision.caltech.edu/Image_Datas
 
 ## General
 
+- [1906.05388] [Assisted Excitation of Activations: A Learning Technique to Improve Object Detectors](https://arxiv.org/abs/1906.05388)
+
 - [CVPR2019] [High-level Semantic Feature Detection:
 A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf)
 
