@@ -8,6 +8,10 @@ of a Target Object Occluded by Clutter](https://arxiv.org/abs/1903.01588)
 - [1903.00228] [Improving Data Efficiency of
 Self-supervised Learning for Robotic Grasping](https://arxiv.org/abs/1903.00228)
 
+- [2019] [Building a Target Recognition Pipeline for Mechanical
+Search and Algorithmically Generating Adversarial Grasp
+Objects with Minimal Random Perturbations](https://pdfs.semanticscholar.org/80cd/b5c601fb403a668fcc7ca2e713e312ce57f0.pdf)
+
 - [1803.09956] [Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning](https://arxiv.org/abs/1803.09956)
 
 ## Amazon Picking Challenge
