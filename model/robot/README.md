@@ -13,3 +13,7 @@ Self-supervised Learning for Robotic Grasping](https://arxiv.org/abs/1903.00228)
 ## Amazon Picking Challenge
 
 - [1709.06283] [Cartman: The low-cost Cartesian Manipulator that won the Amazon Robotics Challenge](https://arxiv.org/abs/1709.06283)
+
+- [IJCAI2016] [Lessons from
+the amazon picking challenge: Four aspects of building
+robotic systems](https://www.ijcai.org/proceedings/2017/0676.pdf)
