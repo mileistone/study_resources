@@ -26,7 +26,7 @@
 
   - [Vim books](https://iccf-holland.org/vim_books.html)
 
-  - [Unittest](https://docs.python.org/3/library/unittest.html)
+  - [Unit test](https://docs.python.org/3/library/unittest.html)
 
   - [Style formatter for python](https://github.com/google/yapf)
 
