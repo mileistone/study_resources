@@ -12,6 +12,9 @@ Self-supervised Learning for Robotic Grasping](https://arxiv.org/abs/1903.00228)
 Search and Algorithmically Generating Adversarial Grasp
 Objects with Minimal Random Perturbations](https://pdfs.semanticscholar.org/80cd/b5c601fb403a668fcc7ca2e713e312ce57f0.pdf)
 
+- [1809.05825] [Segmenting Unknown 3D Objects from Real Depth Images
+using Mask R-CNN Trained on Synthetic Data](https://arxiv.org/abs/1809.05825)
+
 - [1803.09956] [Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning](https://arxiv.org/abs/1803.09956)
 
 ## Amazon Picking Challenge
