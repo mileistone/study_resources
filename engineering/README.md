@@ -18,7 +18,7 @@
   - Python book
     - [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
     - [Python Tutorial](https://bugs.python.org/file47781/Tutorial_EDIT.pdf)
-    - [Learning Python by Mark Lutz by Fabrizio Romano](https://pythonizame.s3.amazonaws.com/media/Book/learning-python/file/500775e4-c85b-11e7-ba9c-040196293901.pdf)
+    - [Learning Python by Fabrizio Romano](https://pythonizame.s3.amazonaws.com/media/Book/learning-python/file/500775e4-c85b-11e7-ba9c-040196293901.pdf)
 
   - [Python style guide](http://google.github.io/styleguide/pyguide.html)
   
