@@ -8,14 +8,15 @@
 
   - [Awk manual](https://www.tutorialspoint.com/awk/index.htm)
 
+- Software engineering
+  - [1](https://www.tutorialspoint.com/software_engineering/software_engineering_tutorial.pdf)
+  - [2](https://sovannarith.files.wordpress.com/2012/07/software-engineering-9th-ed-intro-txt-i-sommerville-pearson_-2011-bbs.pdf)
+  - [3](http://index-of.co.uk/Engineering/Introduction%20to%20Software%20Engineering.pdf)
+
 - Programming
 
   - [Python style guide](http://google.github.io/styleguide/pyguide.html)
-
-  - Modular programming
-    - [1](https://wizardforcel.gitbooks.io/sjtu-cs902-courseware/content/78.html)
-    - [2](https://www.sysctl.me/2018/05/01/%E6%A8%A1%E5%9D%97%E5%8C%96%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/)
-
+  
   - [Vim tutorial](https://coolshell.cn/articles/5426.html)
 
   - [Vim books](https://iccf-holland.org/vim_books.html)
@@ -26,4 +27,4 @@
 
   - [Code analyis for python](https://www.pylint.org/)
 
-  - [Python ebugger](https://docs.python.org/2/library/pdb.html)
+  - [Python debugger](https://docs.python.org/2/library/pdb.html)
