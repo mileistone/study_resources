@@ -23,6 +23,8 @@
 
 - [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
 
+- [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
+
 - [1910.05085] [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085)
 
 - [1904.01906] [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis](https://arxiv.org/abs/1904.01906) # ICCV2019
