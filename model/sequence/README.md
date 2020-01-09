@@ -1,3 +1,5 @@
+- [Tutorial2019] [HMM](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+
 - [1906.08237] [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
 
 - [1810.04805] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
