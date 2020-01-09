@@ -1,3 +1,5 @@
+- [1906.08237] [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+
 - [1810.04805] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
 - [NIPS2017] [Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
