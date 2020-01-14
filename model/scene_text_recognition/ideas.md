@@ -9,7 +9,7 @@
       - word distribution
 
   - input size
-    - larger
+    - larger, better?
 
   - aspect ratio
     - keep or not
