@@ -1,4 +1,32 @@
+- data 
+  -augmentation
+    - need some more augmentation?
+      - rotation
+      - aspect ratio variation
+      - etc.
+    - balance
+      - regular and irregular
+      - word distribution
+
+  - input size
+    - larger
+
+  - aspect ratio
+    - keep or not
+  
 - curve
   - rectification module
+    - original image or upsampled image as input of rectification module
+    - more precise rectification method
+    - verify the upper bound of the rectification module
   - deformable conv(v1 and v2)
- - 
+  
+- backbone
+  - dedicated designed
+  
+- feature map before classification
+  - 1d
+  - 2d
+  
+- language model(implicit or explicit)
+  - need or not
