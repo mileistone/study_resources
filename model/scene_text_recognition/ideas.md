@@ -1,5 +1,5 @@
 - data 
-  -augmentation
+  - augmentation
     - need some more augmentation?
       - rotation
       - aspect ratio variation
