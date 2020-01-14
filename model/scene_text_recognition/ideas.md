@@ -39,5 +39,9 @@
       - this problem is easy, which may help us to debug the scene text recognition system
   - sequence
     - rnn may be substituted by cnn or transformer
-    - we may use a fully convolutional neural networks
     - we may get inspiration from speech recognition
+    - output variable length sequence
+      - decoder(rnn)
+      - set a maximum length
+        - ctc
+        - classification
