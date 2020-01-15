@@ -7,6 +7,7 @@
     - balance
       - regular and irregular
       - word distribution
+    - filter or ignore bad example
   - input size
     - larger, better?
   - aspect ratio
