@@ -1,0 +1,3 @@
+- [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
+  - decouples the alignment operation from using historical decoding results
+  - alignment is achived by a spatial attention module
