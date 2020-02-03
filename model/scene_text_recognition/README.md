@@ -4,16 +4,19 @@
 - [SynthText](https://github.com/ankush-me/SynthText)
 
 ## Paper
-
+### 2020
 - [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
 
 - [AAAI2020] [TextScanner: Reading Characters in Order for Robust Scene Text Recognition](https://arxiv.org/abs/1912.12422)
 
 - [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
 
----
+### 2019
 
 - [AAAI2019] [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508)
+
+- [AAAI2019] [Show, Attend and Read:
+A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751)
 
 - [CVPR2019] [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364)
 
@@ -25,10 +28,7 @@
 
 - [ICCV2019] [GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 
----
-
-- [AAAI2019] [Show, Attend and Read:
-A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751)
+### 2018
 
 - [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
 
@@ -45,15 +45,15 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 - [1811.04256] [Scene Text Detection and Recognition:
 The Deep Learning Era](https://arxiv.org/abs/1811.04256)
 
----
+### 2017
 
 - [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
 
----
+### 2016
 
 - [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification
 ](https://arxiv.org/abs/1603.03915)
 
----
+### 2008
 
 - [2008] [An Overview of the Tesseract OCR Engine](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/33418.pdf)
