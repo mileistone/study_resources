@@ -39,7 +39,7 @@
     - None
     
 ### 2018
-[CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
+- [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
   - **short summary**
     - TODO
   - annotation
@@ -72,4 +72,3 @@
     - TODO
   - the devil in the details
     - TODO
-
