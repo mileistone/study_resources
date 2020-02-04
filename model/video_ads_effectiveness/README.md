@@ -6,3 +6,5 @@
 - [Acess2018] [An Eye Tracking Analysis for Video Advertising Relationship between Advertisement Elements and Effectiveness](https://www.researchgate.net/publication/322947706_An_Eye_Tracking_Analysis_for_Video_Advertising_Relationship_between_Advertisement_Elements_and_Effectiveness)
 - [CVPRW2018] [Advertisement Effectiveness Estimation Based on Crowdsourced Multimodal Affective Responses](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w27/html/Okada_Advertisement_Effectiveness_Estimation_CVPR_2018_paper.html)
 - [Journal of Vacation Marketing2019] [Web advertisement effectiveness evaluation: Attention and memory](https://www.researchgate.net/publication/324067274_Web_advertisement_effectiveness_evaluation_Attention_and_memory)
+
+- []
