@@ -4,6 +4,8 @@
     - narrow advantage
   - annotation
     - word level
+  - rectification module
+    - todo
   - feature map
     - 2d
   - decoder
@@ -20,7 +22,9 @@
   - **short summary**
     - unfair comparison
   - annotation
-    - characters and their count in the sequence annotation
+    - characters and their count in the sequence annotation  
+  - rectification module
+    - todo
   - feature map
     - 2d
   - decoder
@@ -41,6 +45,8 @@
     - todo
   - annotation
     - word level
+  - rectification module
+    - todo
   - feature map
     - 1d
   - decoder
@@ -58,6 +64,8 @@
     - todo
   - annotation
     - word level
+  - rectification module
+    - todo
   - feature map
     - 1d
   - decoder
@@ -65,6 +73,6 @@
   - motivation
     - most existing methods directly encode a text image as a 1D sequence of features and then decode them to the predicted text, which implies that any text in an image is treated in the same direction such as from left to right by default. However, this is not true in the wild
   - solution & novelty
-    - todo
+    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: lef t → right, right → lef t, top → bottom and bottom → top
   - the devil in the details
     - todo
