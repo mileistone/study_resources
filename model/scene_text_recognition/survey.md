@@ -38,7 +38,7 @@
     
 ### 2018
 [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
-  - **not clear**
+  - ****
   - annotation
     - word level
   - feature map
@@ -54,8 +54,8 @@
   - the devil in the details
     - None
     
- - [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
-   - **not clear**
+- [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
+   - ****
   - annotation
     - word level
   - feature map
