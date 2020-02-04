@@ -1,7 +1,8 @@
 
 ### 2020
 - [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
-  - **narrow advantage**
+  - **short summary**
+    - narrow advantage
   - annotation
     - word level
   - feature map
@@ -18,7 +19,8 @@
 
 ### 2019
 - [CVPR2019] [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364)
-  - **unfair comparison**
+  - **short summary**
+    - unfair comparison
   - annotation
     - characters and their count in the sequence annotation
   - feature map
@@ -38,7 +40,7 @@
     
 ### 2018
 [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
-  - ****
+  - **short summary**
   - annotation
     - word level
   - feature map
@@ -55,7 +57,7 @@
     - None
     
 - [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
-   - ****
+  - **short summary**
   - annotation
     - word level
   - feature map
