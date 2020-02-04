@@ -41,6 +41,7 @@
 ### 2018
 [CVPR2018] [Edit Probability for Scene Text Recognition](https://arxiv.org/abs/1805.03384)
   - **short summary**
+    - TODO
   - annotation
     - word level
   - feature map
@@ -58,6 +59,7 @@
     
 - [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
   - **short summary**
+    - TODO
   - annotation
     - word level
   - feature map
@@ -67,7 +69,7 @@
   - motivation
     - most existing methods directly encode a text image as a 1D sequence of features and then decode them to the predicted text, which implies that any text in an image is treated in the same direction such as from left to right by default. However, this is not true in the wild
   - solution & novelty
-    -
+    - TODO
   - the devil in the details
-    - None
+    - TODO
 
