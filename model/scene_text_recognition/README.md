@@ -54,6 +54,8 @@ The Deep Learning Era](https://arxiv.org/abs/1811.04256)
 - [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification
 ](https://arxiv.org/abs/1603.03915)
 
+- [PAMI2016] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717)
+
 ### 2008
 
 - [2008] [An Overview of the Tesseract OCR Engine](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/33418.pdf)
