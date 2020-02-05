@@ -21,6 +21,7 @@
 - [CVPR2019] [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364)
   - **short summary**
     - unfair comparison
+    - interesting idea
   - annotation
     - characters and their count in the sequence annotation  
   - rectification module
@@ -61,11 +62,12 @@
     - None 
 - [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
   - **short summary**
-    - todo
+    - good performace on irregular dataset
+    - interesting idea
   - annotation
     - word level
   - rectification module
-    - todo
+    - no
   - feature map
     - 1d
   - decoder
@@ -75,4 +77,64 @@
   - solution & novelty
     - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: lef t → right, right → lef t, top → bottom and bottom → top
   - the devil in the details
-    - todo
+    - none
+- [ECCV2018] [Synthetically Supervised Feature Learning for
+Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
+  - **short summary**
+    - add gan to str
+  - annotation
+    - word level
+  - rectification module
+    - no
+  - feature map
+    - 1d
+  - decoder
+    - RNN and attention
+  - motivation
+    - most existing methods directly encode a text image as a 1D sequence of features and then decode them to the predicted text, which implies that any text in an image is treated in the same direction such as from left to right by default. However, this is not true in the wild
+  - solution & novelty
+    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: lef t → right, right → lef t, top → bottom and bottom → top
+  - the devil in the details
+    - none
+### 2016
+
+- [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification
+](https://arxiv.org/abs/1603.03915)
+  - **short summary**
+    - first plugs STN in STR task
+    - after CRNN
+  - annotation
+    - word level
+  - rectification module
+    - yes
+  - feature map
+    - 1d
+  - decoder
+    - RNN and attention
+  - motivation
+    - words in natural images often possess irregular shapes, which are caused by perspective distortion, curved character placement, etc
+  - solution & novelty
+    - propose a recification module which is robust to irregular text
+  - the devil in the details
+    - none
+- [PAMI2016] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717)
+  - **short summary**
+    - CRNN
+    - a milestone in deep learning era
+  - annotation
+    - word level
+  - rectification module
+    - no
+  - feature map
+    - 1d
+  - decoder
+    - CTC
+  - motivation
+    - most of the existing algorithms' components are separately trained and tuned
+    - other algorithms either need characater annotation or need predefined lexicon
+  - solution & novelty
+    - the first model that combines cnn and rnn, which can be trained end to end
+    - only need word level annotation
+    - handles sequences in arbitrary lengths
+  - the devil in the details
+    - none
