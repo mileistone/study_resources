@@ -46,3 +46,9 @@
       - set a maximum length
         - ctc
         - classification
+---
+- objective
+  - state of art performance
+  - fully convolutional neural network
+  - no rectification module
+  - interpretable
