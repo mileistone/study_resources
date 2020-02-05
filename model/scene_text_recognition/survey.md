@@ -13,7 +13,7 @@
   - motivation
     - there is misalignment between the ground truth strings and the attention’s output sequences of probability distribution, which is caused by missing or superfluous characters
   - solution & novelty
-    - decouples the alignment operation from using historical decoding results
+    - decouple the alignment operation from using historical decoding results
     - alignment is achived by a spatial attention module
   - the devil in the details
     - None
@@ -75,13 +75,13 @@
   - motivation
     - most existing methods directly encode a text image as a 1D sequence of features and then decode them to the predicted text, which implies that any text in an image is treated in the same direction such as from left to right by default. However, this is not true in the wild
   - solution & novelty
-    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: lef t → right, right → lef t, top → bottom and bottom → top
+    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: left → right, right → left, top → bottom and bottom → top
   - the devil in the details
     - none
 - [ECCV2018] [Synthetically Supervised Feature Learning for
 Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
   - **short summary**
-    - add gan to str
+    - add GAN to STR
   - annotation
     - word level
   - rectification module
@@ -91,9 +91,31 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
   - decoder
     - RNN and attention
   - motivation
-    - most existing methods directly encode a text image as a 1D sequence of features and then decode them to the predicted text, which implies that any text in an image is treated in the same direction such as from left to right by default. However, this is not true in the wild
+    - todo
   - solution & novelty
-    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: left → right, right → left, top → bottom and bottom → top
+    - todo
+  - the devil in the details
+    - none
+### 2017
+- [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
+  - **short summary**
+    - first plugs STN in STR task
+    - after CRNN
+  - annotation
+    - word level
+  - rectification module
+    - yes
+  - feature map
+    - 1d
+  - decoder
+    - RNN and attention
+  - motivation
+    - existing attention-based methods perform poorly on complicated and/or low-quality images
+    - one major reason is that existing methods cannot get accurate alignments between feature areas and targets for such images
+  - solution & novelty
+    - propose the Focusing Attention Network (FAN) method that employs a focusing attention mechanism to automatically draw back the drifted attention
+    - FAN consists of two major components: an attention network (AN) that is responsible for recognizing character targets as in the existing methods, and a focusing network (FN) that is responsible for adjusting attention by evaluating whether AN pays attention properly on the target areas in the images
+    - adopt a ResNet-based network to enrich deep representations of scene text images
   - the devil in the details
     - none
 ### 2016
@@ -134,6 +156,6 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
   - solution & novelty
     - the first model that combines cnn and rnn, which can be trained end to end
     - only need word level annotation
-    - handles sequences in arbitrary lengths
+    - handle sequences in arbitrary lengths
   - the devil in the details
     - none
