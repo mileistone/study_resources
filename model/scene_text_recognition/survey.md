@@ -57,7 +57,7 @@
   - solution & novelty
     - propose a novel method called edit probability (EP) for scene text recognition
     - EP tries to effectively estimate the probability of generating a string from the output sequence of probability distribution conditioned on the input image, while considering the possible occurrences of missing/superfluous characters
-    - the advantage lies in that the training process can focus on the missing, superfluous and unrecognized characters, and thus the impact of the mis- alignment problem can be alleviated or even overcome
+    - the advantage lies in that the training process can focus on the missing, superfluous and unrecognized characters, and thus the impact of the misalignment problem can be alleviated or even overcome
   - the devil in the details
     - None 
 - [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
@@ -93,11 +93,10 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
   - motivation
     - most existing methods directly encode a text image as a 1D sequence of features and then decode them to the predicted text, which implies that any text in an image is treated in the same direction such as from left to right by default. However, this is not true in the wild
   - solution & novelty
-    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: lef t → right, right → lef t, top → bottom and bottom → top
+    - suggest that the visual representation of an arbitrarily oriented character in a 2D image can be described in four directions: left → right, right → left, top → bottom and bottom → top
   - the devil in the details
     - none
 ### 2016
-
 - [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification
 ](https://arxiv.org/abs/1603.03915)
   - **short summary**
