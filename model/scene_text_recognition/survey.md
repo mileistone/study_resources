@@ -99,8 +99,7 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 ### 2017
 - [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
   - **short summary**
-    - first plugs STN in STR task
-    - after CRNN
+    - todo
   - annotation
     - word level
   - rectification module
