@@ -1,4 +1,5 @@
 # General
+- [2002.02917] [Data augmentation with Möbius transformations](https://arxiv.org/abs/2002.02917)
 
 - [1906.11172] [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/abs/1906.11172)
 
