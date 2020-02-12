@@ -21,7 +21,7 @@
 
 - deformable conv
 
-- label smooth
+- label smoothing
 
 - multi-scale training
 
