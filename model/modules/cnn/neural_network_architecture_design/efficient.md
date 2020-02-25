@@ -29,3 +29,5 @@
 - [1610.02357] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 
 - [1612.08242] [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
+
+- [1606.06160] [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)
