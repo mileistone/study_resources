@@ -1,0 +1,1 @@
+- [CVPR2019] [Precise Detection in Densely Packed Scenes](https://arxiv.org/pdf/1904.00853.pdf)
