@@ -1,0 +1,2 @@
+- [CVPR2019] [Knockoff Nets: Stealing Functionality of Black-Box Models](http://openaccess.thecvf.com/content_CVPR_2019/papers/Orekondy_Knockoff_Nets_Stealing_Functionality_of_Black-Box_Models_CVPR_2019_paper.pdf)
+- [1609.02943] [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/pdf/1609.02943.pdf)
