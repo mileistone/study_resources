@@ -28,4 +28,6 @@ Adaptation](https://arxiv.org/abs/1812.08934)
 
 - [1807.11626] [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
 
+- [1807.02811] [A Tutorial on Bayesian Optimization](https://arxiv.org/pdf/1807.02811.pdf)
+
 - [1707.07012] [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
