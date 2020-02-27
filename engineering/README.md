@@ -26,8 +26,10 @@
 
   - [Vim books](https://iccf-holland.org/vim_books.html)
 
-  - [Unit test](https://docs.python.org/3/library/unittest.html)
-
+  - [Testing](https://realpython.com/python-testing/)
+    - unittest
+    - pytest
+    - nose
   - [Style formatter for python](https://github.com/google/yapf)
 
   - [Code analyis for python](https://www.pylint.org/)
