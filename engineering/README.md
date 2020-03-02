@@ -10,7 +10,7 @@
 
 - Software engineering
   - [1](https://www.tutorialspoint.com/software_engineering/software_engineering_tutorial.pdf)
-  - [2](https://sovannarith.files.wordpress.com/2012/07/software-engineering-9th-ed-intro-txt-i-sommerville-pearson_-2011-bbs.pdf)
+  - [2](https://ff.tu-sofia.bg/~bogi/knigi/SE/Software%20Engineering%209th%20ed%20(intro%20txt)%20-%20I.%20Sommerville%20(Pearson,%202011)%20BBS.pdf)
   - [3](http://index-of.co.uk/Engineering/Introduction%20to%20Software%20Engineering.pdf)
 
 - Programming
