@@ -1,3 +1,5 @@
+-[Tutorial] [DCT](https://www.math.cuhk.edu.hk/~lmlui/dct.pdf)
+
 - [1911.09737] [Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks](https://arxiv.org/abs/1911.09737)
 
 - [1908.01259] [Attentive Normalization](https://arxiv.org/abs/1908.01259)
