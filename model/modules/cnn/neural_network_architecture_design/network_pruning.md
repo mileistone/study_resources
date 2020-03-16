@@ -1,0 +1,1 @@
+- [CVPR2018] [Learning Strict Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1804.01661)
