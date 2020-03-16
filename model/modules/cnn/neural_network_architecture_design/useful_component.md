@@ -1,4 +1,4 @@
--[Tutorial] [DCT](https://www.math.cuhk.edu.hk/~lmlui/dct.pdf)
+- [CVPR2020] [Learning in the Frequency Domain](https://arxiv.org/abs/2002.12416) | [DCT](https://www.math.cuhk.edu.hk/~lmlui/dct.pdf)
 
 - [1911.09737] [Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks](https://arxiv.org/abs/1911.09737)
 
