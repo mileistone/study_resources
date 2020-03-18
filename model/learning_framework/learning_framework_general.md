@@ -39,15 +39,26 @@
     - kernel size、stride、padding共同影响
     - 对dense prediction任务会有较大影响
   - over-parameterized
-    - [acnet](https://arxiv.org/abs/1908.03930)
-      
+    - [ACNet](https://arxiv.org/abs/1908.03930)
+
+- 特征融合
+  - basic
+    - concat
+    - add
+      - sum
+      - average
+    - 上述三者区别
+  - [FPN](https://arxiv.org/abs/1612.03144)
+  - [BiFPN](https://arxiv.org/abs/1911.09070)
+  - [PANet](https://arxiv.org/abs/1803.01534)
+
 - 感受野
   - [理论感受野](https://github.com/vdumoulin/conv_arithmetic)
     - [各种模块感受野的计算](https://github.com/vdumoulin/conv_arithmetic)
       - [conv](https://fomoro.com/research/article/receptive-field-calculator)、pooling、deconv、dilated conv、residual结构等等
   - [有效感受野](https://arxiv.org/abs/1701.04128)
     - 什么会影响有效感受野大小
-  - 在保证感受野不变的情况下提高特征图分辨率，可以去掉大于1的stride，增加conv的dilation rate
+  - 在保证感受野不变的情况下提高特征图分辨率，可以去掉降采样的layer，增加降采样layer之后所有conv的dilation rate
     
 - 激活函数
   - 永久失活
