@@ -47,7 +47,7 @@
       - [conv](https://fomoro.com/research/article/receptive-field-calculator)、pooling、deconv、dilated conv、residual结构等等
   - [有效感受野](https://arxiv.org/abs/1701.04128)
     - 什么会影响有效感受野大小
-  - 在保证感受野不变的情况下提高特征图分辨率，可以去掉大于1的stride，增加conv的dilated rate
+  - 在保证感受野不变的情况下提高特征图分辨率，可以去掉大于1的stride，增加conv的dilation rate
     
 - 激活函数
   - 永久失活
