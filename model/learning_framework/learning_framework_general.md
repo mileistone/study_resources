@@ -38,7 +38,6 @@
   - [feature alignment](https://arxiv.org/abs/1703.06211)
     - kernel size、stride、padding共同影响
     - 对dense prediction任务会有较大影响
-   
   - over-parameterized
     - [acnet](https://arxiv.org/abs/1908.03930)
       
@@ -48,6 +47,7 @@
       - [conv](https://fomoro.com/research/article/receptive-field-calculator)、pooling、deconv、dilated conv、residual结构等等
   - [有效感受野](https://arxiv.org/abs/1701.04128)
     - 什么会影响有效感受野大小
+  - 在保证感受野不变的情况下提高特征图分辨率，可以去掉大于1的stride，增加conv的dilated rate
     
 - 激活函数
   - 永久失活
@@ -100,6 +100,10 @@
   - 什么情况才算imbalance
     - 数量不同一定就有imbalance问题吗
   - [样本采样](https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650376125&idx=2&sn=6ca8ae3a0a7714a18062d0d2eb182f84&chksm=8390b361b4e73a7776ef92763f6ea77962a116d04f97dcab2be1dcf63d831cb566ad24002de1&mpshare=1&scene=1&srcid=1121yInn8hMp0IYmK5wQYveS&sharer_sharetime=1574330244918&sharer_shareid=b4f4feb59d190ad2de2d18b933a2a0d5&rd2werd=1#wechat_redirect)
+  - 解决方法
+    - OHEM
+    - focal loss
+    - GHM
   
 - 难样本
   - 什么是难样本
