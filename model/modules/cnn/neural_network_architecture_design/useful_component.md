@@ -10,7 +10,9 @@
 
 - [1904.11486] [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/abs/1904.11486)
 
-- [1904.05049] [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](https://arxiv.org/pdf/1904.05049) # Octave conv 
+- [1904.05049] [Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution](https://arxiv.org/pdf/1904.05049)
+  - Octave conv 
+  - should be compared with [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 
 - [1904.04971] [Soft Conditional Computation](https://arxiv.org/abs/1904.04971)
 
@@ -26,6 +28,8 @@
 poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
 - [1805.11604] [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
+
+- [CVPR2017] [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
 
