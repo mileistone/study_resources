@@ -40,6 +40,8 @@
     - 对dense prediction任务会有较大影响
   - over-parameterized
     - [ACNet](https://arxiv.org/abs/1908.03930)
+  - position awared
+    - [coordconv](https://arxiv.org/abs/1807.03247)
 
 - 特征融合
   - basic
