@@ -1,8 +1,7 @@
 - [CVPR2020] [Learning in the Frequency Domain](https://arxiv.org/abs/2002.12416)
-  - related
-    - [DCT](https://www.math.cuhk.edu.hk/~lmlui/dct.pdf)
-    - [NIPS2018][Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper/7649-faster-neural-networks-straight-from-jpeg.pdf)
-    - [IMVIP2017] [On using CNN with DCT based Image Data](https://www.scss.tcd.ie/Rozenn.Dahyot/pdf/IMVIP2017_MatejUlicny.pdf)
+  - [DCT](https://www.math.cuhk.edu.hk/~lmlui/dct.pdf)
+  - [NIPS2018] [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper/7649-faster-neural-networks-straight-from-jpeg.pdf) 
+  - [IMVIP2017] [On using CNN with DCT based Image Data](https://www.scss.tcd.ie/Rozenn.Dahyot/pdf/IMVIP2017_MatejUlicny.pdf)
 
 - [1911.09737] [Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks](https://arxiv.org/abs/1911.09737)
 
