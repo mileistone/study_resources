@@ -12,7 +12,9 @@
 
 - [AAAI2020] [TextScanner: Reading Characters in Order for Robust Scene Text Recognition](https://arxiv.org/abs/1912.12422)
 
-- [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
+- [AAAI2020] [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276)
+
+- [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077)
 
 ### 2019
 
@@ -30,6 +32,15 @@ A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/a
 - [ICCV2019 [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis](https://arxiv.org/abs/1904.01906)
 
 - [ICCV2019] [GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
+
+- [ICDAR2019] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926)
+
+- [1910.04396] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396)
+
+- [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
+
+- [1904.01375] [A Simple and Strong Convolutional-Attention Network
+for Scene Text Recognition](https://arxiv.org/abs/1904.01375)
 
 ### 2018
 
