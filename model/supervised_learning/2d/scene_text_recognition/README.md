@@ -1,7 +1,10 @@
 ## Dataset
 - [Robust Reading Competition](https://rrc.cvc.uab.es/)
-- [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/), [MJProject](http://www.robots.ox.ac.uk/~vgg/research/text/)
+- [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/)
+  - [MJProject](http://www.robots.ox.ac.uk/~vgg/research/text/)
 - [SynthText](https://github.com/ankush-me/SynthText)
+- [Chinese Text in the Wild](https://arxiv.org/abs/1803.00085)
+  - [CTW Dataset](https://ctwdataset.github.io)
 
 ## Paper
 ### 2020
