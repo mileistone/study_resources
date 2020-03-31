@@ -6,3 +6,5 @@
   - [ICRA2018] [LabelFusion: A Pipeline for Generating Ground Truth Labels for Real
 RGBD Data of Cluttered Scenes](https://arxiv.org/abs/1707.04796)
 
+  - [1809.10790] [Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects](https://arxiv.org/abs/1809.10790)
+
