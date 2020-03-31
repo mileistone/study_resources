@@ -16,6 +16,8 @@
 
 - [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077)
 
+- [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
+
 ### 2019
 
 - [AAAI2019] [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508)
