@@ -3,6 +3,8 @@
   - [NIPS2018] [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper/7649-faster-neural-networks-straight-from-jpeg.pdf) 
   - [IMVIP2017] [On using CNN with DCT based Image Data](https://www.scss.tcd.ie/Rozenn.Dahyot/pdf/IMVIP2017_MatejUlicny.pdf)
 
+- [CVPR2019] [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925)
+
 - [1911.09737] [Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks](https://arxiv.org/abs/1911.09737)
 
 - [1908.01259] [Attentive Normalization](https://arxiv.org/abs/1908.01259)
@@ -31,6 +33,8 @@
 poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
 - [1805.11604] [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
+
+- [CVPR2018] [Non-local neural networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
 - [CVPR2017] [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 
