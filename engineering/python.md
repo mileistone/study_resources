@@ -3,7 +3,7 @@
 - is vs ==
   - `val is None` or `val == None`
 
-- with
+- [the with statement](https://docs.python.org/2.5/whatsnew/pep-343.html)
 
 - decorator
 
