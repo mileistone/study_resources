@@ -1,7 +1,13 @@
+---
+
+- [2004.08955] [ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955)
+
 - [CVPR2020] [Learning in the Frequency Domain](https://arxiv.org/abs/2002.12416)
   - [DCT](https://www.math.cuhk.edu.hk/~lmlui/dct.pdf)
   - [NIPS2018] [Faster Neural Networks Straight from JPEG](https://papers.nips.cc/paper/7649-faster-neural-networks-straight-from-jpeg.pdf) 
   - [IMVIP2017] [On using CNN with DCT based Image Data](https://www.scss.tcd.ie/Rozenn.Dahyot/pdf/IMVIP2017_MatejUlicny.pdf)
+
+---
 
 - [CVPR2019] [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925)
 
@@ -21,6 +27,8 @@
 
 - [1904.04971] [Soft Conditional Computation](https://arxiv.org/abs/1904.04971)
 
+---
+
 - [1811.11718] [Partial Convolution based Padding](https://arxiv.org/abs/1811.11718)
 
 - [1811.11168] [Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168)
@@ -36,6 +44,8 @@ poorly to small image transformations?](https://arxiv.org/abs/1805.12177)
 
 - [CVPR2018] [Non-local neural networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
+---
+
 - [CVPR2017] [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 
 - [1709.01507] [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) # SE
@@ -49,9 +59,13 @@ Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org
 
 - [1702.03275] [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://arxiv.org/abs/1702.03275)
 
+---
+
 - [1611.07661] [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 
 - [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
+
+---
 
 - [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 
