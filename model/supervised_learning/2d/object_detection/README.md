@@ -1,5 +1,9 @@
 # General object detection
 
+## Anchor based
+
+- [2004.10934] [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
+
 - [1911.09070] [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
 
 - [1911.08287] [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287)
