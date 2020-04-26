@@ -1,14 +1,3 @@
-
----
-
-# Face detection
-
-- [1805.03363] [Anchor Cascade for Efficient Face Detection](https://arxiv.org/abs/1805.03363)
-
-- [1604.02878] [Joint face detection and alignment using multitask cascaded convolutional networks](https://arxiv.org/abs/1604.02878)
-
----
-
 # General object detection
 
 - [1911.09070] [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
