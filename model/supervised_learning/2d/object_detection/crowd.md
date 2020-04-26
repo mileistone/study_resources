@@ -1,0 +1,1 @@
+[CVPR2020] [Detection in Crowded Scenes: One Proposal, Multiple Predictions](https://arxiv.org/abs/2003.09163)
