@@ -10,6 +10,9 @@
 
 - [Blog] [Optimizing Deep Learning Computation Graphs with TensorRT](https://mxnet.apache.org/api/python/docs/tutorials/performance/backend/tensorrt/tensorrt.html)
 
+- [User Guide] [TensorRT developer guide](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Developer-Guide.pdf)
+
+
 ## Projects
 
 - [TensorRT](https://github.com/NVIDIA/TensorRT/)
