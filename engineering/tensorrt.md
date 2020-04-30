@@ -12,6 +12,10 @@
 
 - [User Guide] [TensorRT developer guide](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Developer-Guide.pdf)
 
+- [Tensorflow release notes](https://docs.nvidia.com/deeplearning/frameworks/tensorflow-release-notes/)
+
+- [MXNet release notes](https://docs.nvidia.com/deeplearning/frameworks/mxnet-release-notes/)
+
 
 ## Projects
 
