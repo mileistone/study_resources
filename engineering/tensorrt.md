@@ -22,3 +22,6 @@
 - [TensorFlow/TensorRT Models on Jetson](https://github.com/NVIDIA-AI-IOT/tf_trt_models)
 
 - [PyTorch to TensorRT](https://github.com/NVIDIA-AI-IOT/torch2trt)
+
+- [Paddle-TRT interface usage
+](https://www.paddlepaddle.org.cn/documentation/docs/en/advanced_guide/performance_improving/inference_improving/paddle_tensorrt_infer_en.html)
