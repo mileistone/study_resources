@@ -20,6 +20,8 @@
 
 - [Deploying Deep Neural Networks with NVIDIA TensorRT](https://devblogs.nvidia.com/deploying-deep-learning-nvidia-tensorrt/)
 
+- [NVIDIA AI INFERENCE PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/solutions/inference-platform/)
+
 ## Projects
 
 - [TensorRT](https://github.com/NVIDIA/TensorRT/)
