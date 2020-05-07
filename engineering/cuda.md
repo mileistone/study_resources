@@ -5,3 +5,5 @@
 - [Tutorial] [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 
 - [Overview] [CUDA](https://docs.nvidia.com/cuda/)
+
+- [Guide] [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#abstract)
