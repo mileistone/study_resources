@@ -22,6 +22,8 @@
 
 - [NVIDIA AI INFERENCE PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/solutions/inference-platform/)
 
+- [Tutorial] [Best Practices For TensorRT Performance](https://docs.nvidia.com/deeplearning/sdk/tensorrt-best-practices/)
+
 ## Projects
 
 - [TensorRT](https://github.com/NVIDIA/TensorRT/)
