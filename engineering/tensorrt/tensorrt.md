@@ -10,7 +10,9 @@
 
 - [Optimizing Deep Learning Computation Graphs with TensorRT](https://mxnet.apache.org/api/python/docs/tutorials/performance/backend/tensorrt/tensorrt.html)
 
-- [TensorRT developer guide](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Developer-Guide.pdf)
+- [TensorRT developer guide]
+  - [PDF](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Developer-Guide.pdf)
+  - [Web](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide)
 
 - [Tensorflow release notes](https://docs.nvidia.com/deeplearning/frameworks/tensorflow-release-notes/)
 
@@ -23,6 +25,10 @@
 - [NVIDIA AI INFERENCE PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/solutions/inference-platform/)
 
 - [Tutorial] [Best Practices For TensorRT Performance](https://docs.nvidia.com/deeplearning/sdk/tensorrt-best-practices/)
+
+- [Tutorial] [TensorRT Samples Support Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sample-support-guide)
+
+- [] [](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide)
 
 ## Projects
 
