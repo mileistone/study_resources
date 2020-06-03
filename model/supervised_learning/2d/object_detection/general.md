@@ -47,6 +47,10 @@
 - [1509.04874] [DenseBox: Unifying Landmark Localization with
 End to End Object Detection](https://arxiv.org/pdf/1509.04874)
 
+## End-to-end
+
+- [2005.12872] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) 
+
 ## Analysis
 
 - [1911.12451] [Empirical Upper Bound in Object Detection and More](https://arxiv.org/abs/1911.12451)
