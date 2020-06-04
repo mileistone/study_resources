@@ -7,3 +7,5 @@
 - [Overview] [CUDA](https://docs.nvidia.com/cuda/)
 
 - [Guide] [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#abstract)
+
+- [Hardware] [GPU Compute Capability](https://developer.nvidia.com/cuda-gpus)
