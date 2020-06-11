@@ -8,6 +8,8 @@
 
 - [1812.08434] [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
 
+- [Blog] [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
 - [1711.07971] [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
 
 
