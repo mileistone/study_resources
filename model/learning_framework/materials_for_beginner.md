@@ -37,6 +37,7 @@
 
 ### Optimization
 - [Book] [Convex Optimization]()
+
 - [Book] [Numerical Optimization]()
 
 
