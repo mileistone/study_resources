@@ -36,9 +36,9 @@
 [Course] [Illinois CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 
 ### Optimization
-- [Book] [Convex Optimization]()
+- [Book] [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 
-- [Book] [Numerical Optimization]()
+- [Book] [Numerical Optimization](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)
 
 
 ### Computer Vision
