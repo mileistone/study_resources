@@ -42,6 +42,9 @@
     - [ACNet](https://arxiv.org/abs/1908.03930)
   - position awared
     - [coordconv](https://arxiv.org/abs/1807.03247)
+  - [bagnet](https://arxiv.org/abs/1904.00760)
+  - [cnns are biased towards texture](https://arxiv.org/abs/1811.12231)
+  - [cnn vs gcn](https://zhuanlan.zhihu.com/p/147654689)
 
 - 特征融合
   - basic
