@@ -181,6 +181,12 @@
   - 分类loss能用来回归吗
   - 回归loss能用来分类吗
 
+- optimization
+  - relationship between batch size and learning rate
+  - relationship between batch size and convergence rate
+  - why mini-batch sgd works
+  - why not second order optimizatio method
+
 - 评价指标
     - 有哪些评价指标
     - 面对具体任务，应该如何选择评价指标
