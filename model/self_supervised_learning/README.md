@@ -1,3 +1,5 @@
+[CVPR2019] [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
+
 [CVPR2016] [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/abs/1604.07379)
 
 [ECCV2016] [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)
