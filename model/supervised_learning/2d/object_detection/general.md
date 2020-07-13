@@ -55,5 +55,9 @@ End to End Object Detection](https://arxiv.org/pdf/1509.04874)
 
 - [1911.12451] [Empirical Upper Bound in Object Detection and More](https://arxiv.org/abs/1911.12451)
 
+- [1811.08883] [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
+
 - [1810.04002] [Decoupled Classification Refinement: Hard
 False Positive Suppression for Object Detection](https://arxiv.org/abs/1810.04002)
+
+
