@@ -60,4 +60,4 @@ End to End Object Detection](https://arxiv.org/pdf/1509.04874)
 - [1810.04002] [Decoupled Classification Refinement: Hard
 False Positive Suppression for Object Detection](https://arxiv.org/abs/1810.04002)
 
-
+- [1611.10012] [Speed/accuracy Trade-offs for Modern Convolutional Object Detectors](https://arxiv.org/abs/1611.10012)
