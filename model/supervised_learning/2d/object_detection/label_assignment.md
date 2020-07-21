@@ -1,3 +1,6 @@
+[2007.08103] [Probabilistic Anchor Assignment with IoU
+Prediction for Object Detection](https://arxiv.org/abs/2007.08103)
+
 [2007.03496] [AutoAssign: Differentiable Label Assignment for Dense Object Detection
 ](https://arxiv.org/abs/2007.03496)
 
