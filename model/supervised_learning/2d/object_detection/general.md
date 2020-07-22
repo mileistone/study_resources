@@ -24,6 +24,8 @@
 
 - [CVPR2019] [Deformable convnets v2: More deformable, better results](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Deformable_ConvNets_V2_More_Deformable_Better_Results_CVPR_2019_paper.pdf)
 
+- [1807.11590] [Acquisition of Localization Confidence for Accurate Object Detection](https://arxiv.org/abs/1807.11590)
+
 - [CVPR2018] [Cascade r-cnn: Delving into high quality object detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)
 
 - [CVPR2018] [An analysis of scale invariance in object detection snip](http://openaccess.thecvf.com/content_cvpr_2018/papers/Singh_An_Analysis_of_CVPR_2018_paper.pdf)
