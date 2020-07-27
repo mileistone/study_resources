@@ -14,9 +14,12 @@
 
 - [AAAI2020] [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276)
 
+- [2006.04305] [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305)
+
 - [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
 
 - [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077)
+
 
 ### 2019
 
