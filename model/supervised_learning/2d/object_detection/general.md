@@ -71,7 +71,4 @@ evidence for bottom-up object detection](https://arxiv.org/abs/2007.02355)
 
 - [1810.04002] [Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection](https://arxiv.org/abs/1810.04002)
 
-- [1803.08494] [Group Normalization](https://arxiv.org/abs/1803.08494)
-  > We find that replacing the 2fc box head with 4conv1fc (similar to [48]) can better leverage GN. 
-
 - [1504.06066] [Object Detection Networks on Convolutional Feature Maps](https://arxiv.org/abs/1504.06066)
