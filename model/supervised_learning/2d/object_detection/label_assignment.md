@@ -13,3 +13,5 @@ Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)
 
 [1909.02466] [FreeAnchor: Learning to Match Anchors for Visual
 Object Detection](https://arxiv.org/abs/1909.02466)
+
+[1904.04821] [Prime Sample Attention in Object Detection](https://arxiv.org/abs/1904.04821)
