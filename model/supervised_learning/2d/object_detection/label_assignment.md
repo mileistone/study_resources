@@ -9,9 +9,11 @@ Prediction for Object Detection](https://arxiv.org/abs/2007.08103)
 [1912.02424] [Bridging the Gap Between Anchor-based and Anchor-free Detection via
 Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)
 
-[1911.12448] [Soft Anchor-Point Object Detection](https://arxiv.org/abs/1911.12448)
+[1911.12448] [Soft Anchor-Point Object Detection](https://arxiv.org/abs/1911.12448) # SAPD
 
 [1909.02466] [FreeAnchor: Learning to Match Anchors for Visual
 Object Detection](https://arxiv.org/abs/1909.02466)
 
 [1904.04821] [Prime Sample Attention in Object Detection](https://arxiv.org/abs/1904.04821)
+
+[1903.00621] [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) # FSAF
