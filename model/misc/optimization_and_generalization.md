@@ -17,9 +17,4 @@ networks](https://arxiv.org/abs/1705.08741)
   - Flat loss landscape leads to better generalization
 
 ## Loss
-[2002.08709] [Do We Need Zero Training Loss
-After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
 
-[1712.09913] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
-
-[1912.02292] [eep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)
