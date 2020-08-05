@@ -13,8 +13,10 @@
 generalization gap in large batch training of neural
 networks](https://arxiv.org/abs/1705.08741)
 
-
 [1609.04836] [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/abs/1609.04836)
 
+## Loss
+[2002.08709] [Do We Need Zero Training Loss
+After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
 
 
