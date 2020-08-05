@@ -1,3 +1,5 @@
+[2003.01054] [Double Trouble in Double Descent : Bias and Variance(s) in the Lazy Regime](https://arxiv.org/abs/2003.01054)
+
 [2002.08709] [Do We Need Zero Training Loss
 After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
 
