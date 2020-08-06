@@ -21,6 +21,8 @@
 [Book] [Information Theory, Inference, and Learning Algorithms
 ](https://www.inference.org.uk/itprnn/book.pdf)
 
+[Course] [CMU: Information Processing and Learning](http://www.cs.cmu.edu/~aarti/Class/10704_Fall16/)
+
 ### Deep Learning
 
 - Required
