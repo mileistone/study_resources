@@ -2,6 +2,8 @@
 
 ## Anchor based
 
+- [2007.12099] [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/abs/2007.12099)
+
 - [2004.10934] [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
 
 - [1911.09070] [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
