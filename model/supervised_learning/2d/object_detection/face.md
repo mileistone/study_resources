@@ -1,3 +1,7 @@
+- [2005.09412] [MaskFace: multi-task face and landmark detector](https://arxiv.org/abs/2005.09412)
+
+- [1905.00641] [RetinaFace: Single-stage Dense Face Localisation in the Wild](https://arxiv.org/abs/1905.00641)
+
 - [1805.03363] [Anchor Cascade for Efficient Face Detection](https://arxiv.org/abs/1805.03363)
 
 - [1802.09058] [Seeing Small Faces from Robust Anchor's Perspective](https://arxiv.org/abs/1802.09058)
