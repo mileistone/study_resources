@@ -14,4 +14,4 @@
 
 - [1612.04402] [Finding Tiny Faces](https://arxiv.org/abs/1612.04402)
 
-- [1604.02878] [Joint face detection and alignment using multitask cascaded convolutional networks](https://arxiv.org/abs/1604.02878)
+- [1604.02878] [Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)
