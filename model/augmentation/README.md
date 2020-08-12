@@ -1,0 +1,1 @@
+- [1906.11172] [Learning Data Augmentation Strategies for Object Detectio](https://arxiv.org/abs/1906.11172)
