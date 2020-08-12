@@ -10,8 +10,8 @@
 
 - [1708.05237] [Single Shot Scale-invariant Face Detector](https://arxiv.org/abs/1708.05237)
 
-- [IJCB2017] [Faceboxes: A CPU real-time face detector with high accuracy](https://arxiv.org/abs/1708.05234)
+- [IJCB2017] [Faceboxes: A CPU Real-time Face Detector with High Accuracy](https://arxiv.org/abs/1708.05234)
 
 - [1612.04402] [Finding Tiny Faces](https://arxiv.org/abs/1612.04402)
 
-- [1604.02878] [Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)
+- [1604.02878] [Joint Face Detection and Alignment using Multitask Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)
