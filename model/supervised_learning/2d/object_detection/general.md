@@ -74,3 +74,7 @@ evidence for bottom-up object detection](https://arxiv.org/abs/2007.02355)
 - [1810.04002] [Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection](https://arxiv.org/abs/1810.04002)
 
 - [1504.06066] [Object Detection Networks on Convolutional Feature Maps](https://arxiv.org/abs/1504.06066)
+
+## NMS
+
+- [1505.01749] [Object detection via a multi-region & semantic segmentation-aware CNN model](https://arxiv.org/abs/1505.01749)
