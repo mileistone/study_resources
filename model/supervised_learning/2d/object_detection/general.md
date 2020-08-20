@@ -77,4 +77,7 @@ evidence for bottom-up object detection](https://arxiv.org/abs/2007.02355)
 
 ## NMS
 
+- [1704.04503] [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
+
 - [1505.01749] [Object detection via a multi-region & semantic segmentation-aware CNN model](https://arxiv.org/abs/1505.01749)
+
