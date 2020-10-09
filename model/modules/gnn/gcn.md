@@ -1,5 +1,7 @@
 - [Blog] [Graph Convolutional Networks](https://tkipf.github.io/graph-convolutional-networks/)
 
+- [ICLR2021] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
+
 - [Slide] [Learning Graph Representations for Video Understanding](http://valser.org/webinar/slide/slides/20190703/graph_tutorial_xiaolong.pdf)
 
 - [1906.05909] [Stand-alone self-attention in vision models](https://arxiv.org/abs/1906.05909)
