@@ -185,7 +185,7 @@
   - relationship between batch size and learning rate
   - relationship between batch size and convergence rate
   - why mini-batch sgd works
-  - why not second order optimizatio method
+  - why not second order optimization method
 
 - 评价指标
     - 有哪些评价指标
