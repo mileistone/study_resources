@@ -13,7 +13,7 @@
 - 深度学习
   - [Deep Learning](http://www.deeplearningbook.org/)
   
-- Conv
+- conv
   - 假设
     - 空间平稳
     - 局部相关
@@ -67,8 +67,8 @@
     
 - 激活函数
   - 永久失活
-  - relu带来非线性的同时也丢失了信息
-    - [crelu](https://arxiv.org/abs/1603.05201)
+  - ReLU带来非线性的同时也丢失了信息
+    - [CReLU](https://arxiv.org/abs/1603.05201)
     - [swish](https://arxiv.org/abs/1710.05941)
     
 - 采样
@@ -184,7 +184,7 @@
 - optimization
   - relationship between batch size and learning rate
   - relationship between batch size and convergence rate
-  - why mini-batch sgd works
+  - why mini-batch SGD works
   - why not second order optimization method
 
 - 评价指标
