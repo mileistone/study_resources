@@ -186,6 +186,7 @@
   - relationship between batch size and convergence rate
   - why mini-batch SGD works
   - why not second order optimization method
+  - [double descent](https://arxiv.org/abs/1912.02292)
 
 - 评价指标
     - 有哪些评价指标
