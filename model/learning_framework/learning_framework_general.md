@@ -5,15 +5,15 @@
   
 - 机器学习
   - [谷歌机器学习速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-CN)
-  - [cs229](http://cs229.stanford.edu/)
+  - [CS229](http://cs229.stanford.edu/)
   
 - 计算机视觉
-  - [cs231n](http://cs231n.stanford.edu/)
+  - [CS231n](http://cs231n.stanford.edu/)
   
 - 深度学习
-  - [deep learning](http://www.deeplearningbook.org/)
+  - [Deep Learning](http://www.deeplearningbook.org/)
   
-- conv
+- Conv
   - 假设
     - 空间平稳
     - 局部相关
@@ -98,12 +98,12 @@
     - softmax
     - [fast normalized](https://arxiv.org/abs/1911.09070)
   - feature normalization
-    - bn、gn、ln、in
+    - BN、GN、LN、IN
       - 各自的假设和使用场景
-      - bn与senet区别与联系
-      - bn的momentum超参有何含义
-      - bn的beta有何物理含义
-    - [frn](https://arxiv.org/abs/1911.09737)
+      - BN与SENet区别与联系
+      - BN的momentum超参有何含义
+      - BN的gamma有何物理含义
+    - [FRN](https://arxiv.org/abs/1911.09737)
   - loss normalization
     - [batch wise, sample wise](https://gluon-cv.mxnet.io/build/examples_detection/train_ssd_advanced.html)
     
@@ -118,7 +118,7 @@
   - [样本采样](https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650376125&idx=2&sn=6ca8ae3a0a7714a18062d0d2eb182f84&chksm=8390b361b4e73a7776ef92763f6ea77962a116d04f97dcab2be1dcf63d831cb566ad24002de1&mpshare=1&scene=1&srcid=1121yInn8hMp0IYmK5wQYveS&sharer_sharetime=1574330244918&sharer_shareid=b4f4feb59d190ad2de2d18b933a2a0d5&rd2werd=1#wechat_redirect)
   - 解决方法
     - OHEM
-    - focal loss
+    - Focal Loss
     - GHM
   
 - 难样本
@@ -137,11 +137,11 @@
     - 小kernel堆叠不一定比大kernel快
   - scalable
     - [resolution、width、depth](https://arxiv.org/abs/1905.11946)
-    - [cbnet](https://arxiv.org/abs/1909.03625)
+    - [CBNet](https://arxiv.org/abs/1909.03625)
   - neck
-    - fpn
-    - [bifpn](https://arxiv.org/abs/1911.09070)
-    - [aug-fpn](https://arxiv.org/abs/1803.01534)
+    - FPN
+    - [BiFPN](https://arxiv.org/abs/1911.09070)
+    - [PAFPN](https://arxiv.org/abs/1803.01534)
     
 - 网格效应
   - [deconv](https://distill.pub/2016/deconv-checkerboard/)
