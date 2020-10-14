@@ -18,6 +18,8 @@
 
 - [MIT Deep learning slides](https://www.dropbox.com/s/c0g3sc1shi63x3q/deep_learning_basics.pdf?dl=0)
 
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+
 # Computer vision
 - [UMich EECS498] [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
 
