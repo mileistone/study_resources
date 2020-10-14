@@ -59,7 +59,7 @@
 
 [Book] [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf)
 
-### Convolutional neural networks
+### Convolutional Neural Networks
 
 - Required
 
