@@ -14,6 +14,7 @@
     - [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
     - [Python Tutorial](https://docs.python.org/3.8/tutorial/index.html)
     - [Learning Python by Fabrizio Romano](https://pythonizame.s3.amazonaws.com/media/Book/learning-python/file/500775e4-c85b-11e7-ba9c-040196293901.pdf)
+    - [Python Reference](https://docs.python.org/3.8/reference/)
   - [Python style guide](http://google.github.io/styleguide/pyguide.html)
   - [Vim tutorial](https://coolshell.cn/articles/5426.html)
   - [Vim books](https://iccf-holland.org/vim_books.html)
