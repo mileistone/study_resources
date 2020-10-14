@@ -22,5 +22,5 @@
     - pytest
     - nose
   - [Style formatter for python](https://github.com/google/yapf)
-  - [Code analyis for python](https://www.pylint.org/)
+  - [Code analysis for python](https://www.pylint.org/)
   - [Python debugger](https://docs.python.org/2/library/pdb.html)
