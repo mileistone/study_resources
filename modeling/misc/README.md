@@ -1,0 +1,1 @@
+- [1707.02968] [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
