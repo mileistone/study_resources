@@ -10,6 +10,8 @@
 
 [Course] [Bias and variance decomposition](https://alliance.seas.upenn.edu/~cis520/dynamic/2018/wiki/index.php?n=Lectures.BiasVariance)
 
+[Paper] [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
 - Recommended but not required
 
 [Book] [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) 
