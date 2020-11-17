@@ -12,6 +12,8 @@
 
 - [Blog] [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
+- [Blog] [Masked Attention](http://juditacs.github.io/2018/12/27/masked-attention.html)
+
 - [1711.07971] [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
 
 
