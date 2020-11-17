@@ -5,6 +5,8 @@
   - [Technical report](https://arxiv.org/pdf/1807.01069.pdf)
 
 ### Papers
+[2008.05787] [Shift Equivariance in Object Detection](https://arxiv.org/abs/2008.05787)
+
 [CVPR2019] [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411)
 
 ### Blogs
