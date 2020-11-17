@@ -14,6 +14,8 @@
 
 - [Blog] [Masked Attention](http://juditacs.github.io/2018/12/27/masked-attention.html)
 
+- [Blog] [PyTorch Transformer Tutorial](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+
 - [1711.07971] [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
 
 
