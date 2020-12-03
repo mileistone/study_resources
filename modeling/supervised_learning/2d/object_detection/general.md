@@ -81,3 +81,12 @@ evidence for bottom-up object detection](https://arxiv.org/abs/2007.02355)
 
 - [1505.01749] [Object detection via a multi-region & semantic segmentation-aware CNN model](https://arxiv.org/abs/1505.01749)
 
+## IoU Loss
+
+- [2005.03572] [Enhancing Geometric Factors in Model Learning and Inference for Object Detection and Instance Segmentation](https://arxiv.org/abs/2005.03572)
+
+- [1911.08287] [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287)
+
+- [1902.09630] [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/abs/1902.09630)
+
+
