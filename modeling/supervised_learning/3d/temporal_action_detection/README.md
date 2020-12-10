@@ -5,6 +5,7 @@ Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf)
 
 ##### Segmentation Based
 - [1608.08128] [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks](https://arxiv.org/abs/1608.08128)
+- [THUMOS14] [Action Recognition and Detection by Combining Motion and Appearance Features](http://crcv.ucf.edu/THUMOS14/papers/CUHK&SIAT.pdf)
 
 #### Two Stage
 ##### Temporal Action Proposal Generation
