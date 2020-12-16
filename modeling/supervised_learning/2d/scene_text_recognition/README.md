@@ -8,6 +8,17 @@
 
 ## Paper
 ### 2020
+
+- [ECCV2020] [AutoSTR: Efficient Backbone Search for Scene Text Recognition](https://arxiv.org/abs/2003.06567)
+
+- [CVPR2020] [SCATTER: Selective Context Attentional Scene Text Recognizer](https://arxiv.org/abs/2003.11288)
+
+- [CVPR2020] [SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977)
+
+- [CVPR2020] [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608)
+
+- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
+
 - [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
 
 - [AAAI2020] [TextScanner: Reading Characters in Order for Robust Scene Text Recognition](https://arxiv.org/abs/1912.12422)
@@ -18,17 +29,19 @@
 
 - [2006.04305] [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305)
 
+- [2005.03492] [https://arxiv.org/abs/2005.03492]()
+
 - [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
 
 - [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077)
 
+- [2009.10874] [Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
 
 ### 2019
 
 - [AAAI2019] [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508)
 
-- [AAAI2019] [Show, Attend and Read:
-A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751)
+- [AAAI2019] [Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751)
 
 - [CVPR2019] [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364)
 
@@ -42,7 +55,13 @@ A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/a
 
 - [ICDAR2019] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926)
 
+- [1912.04561] [A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561)
+
+- [1911.08400] [KISS: Keeping It Simple for Scene Text Recognition](https://arxiv.org/abs/1911.08400)
+
 - [1910.04396] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396)
+
+- [1910.02562] [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://arxiv.org/abs/1910.02562)
 
 - [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
 
@@ -65,6 +84,9 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 
 - [1811.04256] [Scene Text Detection and Recognition:
 The Deep Learning Era](https://arxiv.org/abs/1811.04256)
+
+- [1812.11894] [Accurate, Data-Efficient, Unconstrained Text
+Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894)
 
 ### 2017
 
