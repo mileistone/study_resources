@@ -21,7 +21,7 @@
 
 - [CVPR2020] [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608)
 
-- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
+- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294) # self attention
 
 - [CVPR2020] [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959)
 
@@ -71,8 +71,7 @@
 
 - [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
 
-- [1904.01375] [A Simple and Strong Convolutional-Attention Network
-for Scene Text Recognition](https://arxiv.org/abs/1904.01375)
+- [1904.01375] [A Simple and Strong Convolutional-Attention Network for Scene Text Recognition](https://arxiv.org/abs/1904.01375)
 
 ### 2018
 
@@ -88,15 +87,18 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 - [TPAMI2018] [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
 ](https://www.researchgate.net/publication/325993414_ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification)
 
-- [1811.04256] [Scene Text Detection and Recognition:
-The Deep Learning Era](https://arxiv.org/abs/1811.04256)
-
 - [1812.11894] [Accurate, Data-Efficient, Unconstrained Text
 Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894)
+
+- [1811.04256] [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256)
+
+- [1806.00926] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # self-attention
 
 ### 2017
 
 - [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
+
+- [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303)
 
 ### 2016
 
