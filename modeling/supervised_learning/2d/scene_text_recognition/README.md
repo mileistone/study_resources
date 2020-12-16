@@ -11,6 +11,10 @@
 
 - [ECCV2020] [AutoSTR: Efficient Backbone Search for Scene Text Recognition](https://arxiv.org/abs/2003.06567)
 
+- [ECCV2020] [RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition](https://arxiv.org/abs/2007.07542)
+
+- [ECCV2020] [Adaptive Text Recognition through Visual Matching](https://arxiv.org/abs/2009.06610)
+
 - [CVPR2020] [SCATTER: Selective Context Attentional Scene Text Recognizer](https://arxiv.org/abs/2003.11288)
 
 - [CVPR2020] [SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977)
@@ -18,6 +22,8 @@
 - [CVPR2020] [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608)
 
 - [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
+
+- [CVPR2020] [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959)
 
 - [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
 
