@@ -35,11 +35,11 @@
 
 - [2006.04305] [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305)
 
-- [2005.03492] [https://arxiv.org/abs/2005.03492](Text Recognition in the Wild: A Survey)
+- [2005.03492] [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492)
 
 - [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
 
-- [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077)
+- [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077) # Wrong experiments
 
 - [2009.10874] [Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
 
