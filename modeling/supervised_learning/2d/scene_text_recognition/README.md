@@ -35,7 +35,7 @@
 
 - [2006.04305] [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305)
 
-- [2005.03492] [https://arxiv.org/abs/2005.03492]()
+- [2005.03492] [https://arxiv.org/abs/2005.03492](Text Recognition in the Wild: A Survey)
 
 - [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
 
