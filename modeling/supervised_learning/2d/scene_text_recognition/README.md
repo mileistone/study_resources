@@ -100,7 +100,7 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 - [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNN + CTC
 
-- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727)
+- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNN + CTC
 
 ### 2016
 
