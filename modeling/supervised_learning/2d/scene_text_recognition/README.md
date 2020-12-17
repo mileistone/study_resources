@@ -98,15 +98,19 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 - [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
 
-- [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNN + CTC
+- [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNN + CTC loss
 
-- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNN + CTC + sliding window
+- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNN + CTC loss + sliding window
 
 ### 2016
 
 - [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification](https://arxiv.org/abs/1603.03915)
 
 - [PAMI2016] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717)
+
+### 2014
+
+- [1406.2227] [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227) # CNN + cross entropy loss
 
 ### 2008
 
