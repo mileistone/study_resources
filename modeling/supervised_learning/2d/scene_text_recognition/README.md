@@ -41,8 +41,6 @@
 
 - [2004.08079] [Image Processing Based Scene-Text Detection and Recognition with Tesseract](https://arxiv.org/abs/2004.08079)
 
-- [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
-
 - [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077) # Wrong experiments
 
 ### 2019
