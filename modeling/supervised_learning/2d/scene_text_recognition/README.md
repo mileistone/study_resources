@@ -82,7 +82,7 @@
 - [ECCV2018] [Synthetically Supervised Feature Learning for
 Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
-- [KDD2018] [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085)
+- [KDD2018] [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085) # CNNs + CTC loss
 
 - [TPAMI2018] [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
 ](https://www.researchgate.net/publication/325993414_ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification)
