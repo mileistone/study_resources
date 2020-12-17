@@ -92,7 +92,7 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 - [1811.04256] [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256)
 
-- [1806.00926] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # self-attention
+- [1806.00926] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # Conv + Transformer
 
 ### 2017
 
@@ -100,12 +100,11 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 - [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNN + CTC
 
-- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNN + CTC
+- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNN + CTC + sliding window
 
 ### 2016
 
-- [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification
-](https://arxiv.org/abs/1603.03915)
+- [CVPR2016] [Robust Scene Text Recognition with Automatic Rectification](https://arxiv.org/abs/1603.03915)
 
 - [PAMI2016] [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717)
 
