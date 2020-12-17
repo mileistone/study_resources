@@ -92,15 +92,15 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 - [1811.04256] [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256)
 
-- [1806.00926] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # Conv + Transformer
+- [1806.00926] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # CNNs + Transformer
 
 ### 2017
 
 - [ICCV2017] [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/abs/1709.02054)
 
-- [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNN + CTC loss
+- [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNNs + CTC loss
 
-- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNN + CTC loss + sliding window
+- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNNs + CTC loss + sliding window
 
 ### 2016
 
@@ -110,7 +110,7 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 ### 2014
 
-- [1406.2227] [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227) # CNN + cross entropy loss
+- [1406.2227] [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227) # CNNs + cross entropy loss
 
 ### 2008
 
