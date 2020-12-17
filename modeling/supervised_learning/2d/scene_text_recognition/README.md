@@ -31,17 +31,19 @@
 
 - [AAAI2020] [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276)
 
+- [2009.10874] [Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
+
 - [2009.09941] [PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/abs/2009.09941)
 
 - [2006.04305] [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305)
 
 - [2005.03492] [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492)
 
+- [2004.08079] [Image Processing Based Scene-Text Detection and Recognition with Tesseract](https://arxiv.org/abs/2004.08079)
+
 - [2003.12294] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)
 
 - [2003.08077] [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077) # Wrong experiments
-
-- [2009.10874] [Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
 
 ### 2019
 
@@ -100,7 +102,7 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 - [1709.04303] [Reading Scene Text with Attention Convolutional Sequence Modeling](https://arxiv.org/abs/1709.04303) # CNNs + CTC loss
 
-- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNNs + CTC loss + sliding window
+- [1709.01727] [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) # CNNs + FC + CTC loss + sliding window
 
 ### 2016
 
@@ -110,7 +112,7 @@ Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894
 
 ### 2014
 
-- [1406.2227] [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227) # CNNs + cross entropy loss
+- [1406.2227] [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227) # CNNs + FC + cross entropy loss
 
 ### 2008
 
