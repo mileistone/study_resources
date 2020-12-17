@@ -21,7 +21,7 @@
 
 - [CVPR2020] [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608)
 
-- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294) # self attention
+- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294) # Transformer
 
 - [CVPR2020] [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959)
 
