@@ -21,7 +21,7 @@
 
 - [CVPR2020] [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608)
 
-- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294) # Transformer
+- [CVPR2020] [Towards Accurate Scene Text Recognition with Semantic Reasoning Networks](https://arxiv.org/abs/2003.12294)  # CNNs + Transformer
 
 - [CVPR2020] [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959)
 
@@ -67,7 +67,7 @@
 
 - [1911.08400] [KISS: Keeping It Simple for Scene Text Recognition](https://arxiv.org/abs/1911.08400)
 
-- [1910.04396] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396)
+- [1910.04396] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396) # CNNs + Transformer
 
 - [1910.02562] [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://arxiv.org/abs/1910.02562)
 
