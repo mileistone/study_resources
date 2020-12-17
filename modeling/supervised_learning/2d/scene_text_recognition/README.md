@@ -73,7 +73,7 @@
 
 - [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
 
-- [1904.01375] [A Simple and Strong Convolutional-Attention Network for Scene Text Recognition](https://arxiv.org/abs/1904.01375)
+- [1904.01375] [A Simple and Strong Convolutional-Attention Network for Scene Text Recognition](https://arxiv.org/abs/1904.01375) # CNNs + Transformer
 
 ### 2018
 
@@ -86,11 +86,9 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 
 - [KDD2018] [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085) # CNNs + CTC loss
 
-- [TPAMI2018] [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification
-](https://www.researchgate.net/publication/325993414_ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification)
+- [TPAMI2018] [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification】(https://www.researchgate.net/publication/325993414_ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification)
 
-- [1812.11894] [Accurate, Data-Efficient, Unconstrained Text
-Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894)
+- [1812.11894] [Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894)
 
 - [1811.04256] [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256)
 
