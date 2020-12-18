@@ -49,7 +49,7 @@
 
 - [AAAI2019] [Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751)
 
-- [CVPR2019] [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364)
+- [CVPR2019] [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) # CTC loss -> ACE loss
 
 - [CVPR2019] [ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
 
@@ -63,11 +63,11 @@
 
 - [1912.04561] [A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561)
 
-- [1911.08400] [KISS: Keeping It Simple for Scene Text Recognition](https://arxiv.org/abs/1911.08400)
+- [1911.08400] [KISS: Keeping It Simple for Scene Text Recognition](https://arxiv.org/abs/1911.08400) # CNNs + LSTM + Transformer
 
 - [1910.04396] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396) # CNNs + Transformer
 
-- [1910.02562] [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://arxiv.org/abs/1910.02562)
+- [1910.02562] [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://arxiv.org/abs/1910.02562)  # CNNs + Transformer
 
 - [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
 
