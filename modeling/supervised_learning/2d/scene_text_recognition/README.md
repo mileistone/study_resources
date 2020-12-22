@@ -59,6 +59,8 @@
 
 - [ICCV2019] [GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 
+- [ICCV2019] [Convolutional Character Networks](https://arxiv.org/abs/1910.07954)
+
 - [ICDAR2019] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926)
 
 - [1912.04561] [A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561)
