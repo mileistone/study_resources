@@ -9,6 +9,8 @@
 
 - [ECCV2020] [Character Region Attention For Text Spotting](https://arxiv.org/abs/2007.09629)
 
+- [2012.04350] [MANGO: A Mask Attention Guided One-Stage Scene Text Spotter](https://arxiv.org/abs/2012.04350)
+
 ### 2019
 
 - [ICCV2019] [Convolutional Character Networks](https://arxiv.org/abs/1910.07954)
