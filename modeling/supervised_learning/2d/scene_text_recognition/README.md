@@ -71,6 +71,8 @@
 
 - [1908.11834] [Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834)
 
+- [1907.09705] [2D-CTC for Scene Text Recognition](https://arxiv.org/abs/1907.09705)
+
 - [1904.01375] [A Simple and Strong Convolutional-Attention Network for Scene Text Recognition](https://arxiv.org/abs/1904.01375) # CNNs + Transformer
 
 ### 2018
