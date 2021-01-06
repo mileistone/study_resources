@@ -25,6 +25,8 @@
 
 - [CVPR2020] [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959)
 
+- [CVPRW2020] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396) # CNNs + Transformer
+
 - [AAAI2020] [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)
 
 - [AAAI2020] [TextScanner: Reading Characters in Order for Robust Scene Text Recognition](https://arxiv.org/abs/1912.12422)
@@ -59,13 +61,11 @@
 
 - [ICCV2019] [GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhan_GA-DAN_Geometry-Aware_Domain_Adaptation_Network_for_Scene_Text_Detection_and_ICCV_2019_paper.html)
 
-- [ICDAR2019] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926)
+- [ICDAR2019] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # CNNs + Transformer
 
 - [1912.04561] [A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561)
 
 - [1911.08400] [KISS: Keeping It Simple for Scene Text Recognition](https://arxiv.org/abs/1911.08400) # CNNs + LSTM + Transformer
-
-- [1910.04396] [On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://arxiv.org/abs/1910.04396) # CNNs + Transformer
 
 - [1910.02562] [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://arxiv.org/abs/1910.02562)  # CNNs + Transformer
 
@@ -81,8 +81,7 @@
 
 - [CVPR2018] [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226)
 
-- [ECCV2018] [Synthetically Supervised Feature Learning for
-Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
+- [ECCV2018] [Synthetically Supervised Feature Learning for Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
 
 - [KDD2018] [Rosetta: Large scale system for text detection and recognition in images](https://arxiv.org/abs/1910.05085) # CNNs + CTC loss
 
@@ -91,8 +90,6 @@ Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ya
 - [1812.11894] [Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894) # sophisticated CNNs + CTC loss
 
 - [1811.04256] [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256)
-
-- [1806.00926] [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) # CNNs + Transformer
 
 ### 2017
 
