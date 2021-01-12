@@ -1,5 +1,11 @@
 #### Single Stage
+##### 2020
 - [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
+
+##### 2019
+- [1910.08250] [AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection](https://arxiv.org/abs/1910.08250)
+
+##### 2017
 - [BMVC2017] [End-to-End, Single-Stream Temporal Action
 Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf)
 
