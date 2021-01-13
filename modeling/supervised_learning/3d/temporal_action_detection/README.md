@@ -1,5 +1,7 @@
 #### Single Stage
 ##### 2020
+- [CVPR2020] [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_G-TAD_Sub-Graph_Localization_for_Temporal_Action_Detection_CVPR_2020_paper.pdf)
+  - Extract features via pre-trained temporal action recognition models
 - [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
 
 ##### 2019
