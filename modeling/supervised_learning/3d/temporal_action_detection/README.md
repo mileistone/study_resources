@@ -6,12 +6,12 @@
 - [1910.08250] [AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection](https://arxiv.org/abs/1910.08250)
 
 ##### 2018
-
 - [BMVC2018] [S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Networks](https://arxiv.org/abs/1807.08069)
 
 ##### 2017
 - [BMVC2017] [End-to-End, Single-Stream Temporal Action
 Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf)
+- [MM2017] [Single Shot Temporal Action Detection](https://arxiv.org/abs/1710.06236)
 
 ##### Segmentation Based
 - [1608.08128] [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks](https://arxiv.org/abs/1608.08128)
