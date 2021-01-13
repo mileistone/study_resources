@@ -7,7 +7,7 @@
 
 ##### 2018
 
-- [1807.08069] [S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Networks](https://arxiv.org/abs/1807.08069)
+- [BMVC2018] [S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Networks](https://arxiv.org/abs/1807.08069)
 
 ##### 2017
 - [BMVC2017] [End-to-End, Single-Stream Temporal Action
