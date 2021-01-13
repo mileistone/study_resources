@@ -3,14 +3,14 @@
 - [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
 
 ##### 2019
+- [CVPR2019] [Gaussian Temporal Awareness Networks for Action Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Long_Gaussian_Temporal_Awareness_Networks_for_Action_Localization_CVPR_2019_paper.pdf)
 - [1910.08250] [AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection](https://arxiv.org/abs/1910.08250)
 
 ##### 2018
 - [BMVC2018] [S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Networks](https://arxiv.org/abs/1807.08069)
 
 ##### 2017
-- [BMVC2017] [End-to-End, Single-Stream Temporal Action
-Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf)
+- [BMVC2017] [End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf)
 - [MM2017] [Single Shot Temporal Action Detection](https://arxiv.org/abs/1710.06236)
 
 ##### Segmentation Based
