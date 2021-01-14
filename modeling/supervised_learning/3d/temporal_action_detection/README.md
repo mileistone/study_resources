@@ -4,6 +4,7 @@
   - Extract features via pre-trained temporal action recognition models
 - [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
 - [ICME2020] [Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos](https://arxiv.org/abs/1908.00707)
+  - Adapt ASPP to Temporal Action Localization
 - [2006.07526v2] [CBR-Net: Cascade Boundary Refinement Network for Action Detection: Submission to ActivityNet Challenge 2020](https://arxiv.org/abs/2006.07526v2)
 
 ##### 2019
