@@ -33,7 +33,9 @@
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
 - [CVPR2018] [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf)
-  - How much motion matters 
+  - How much motion matters
+- [CVPR2018] [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
+  - Non-local
 - [ICCV2017] [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)
   - P3D 
   - Comparison with 2D ResNet
