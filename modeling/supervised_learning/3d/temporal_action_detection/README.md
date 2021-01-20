@@ -29,12 +29,14 @@
 ##### Temporal Action Recognition
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
 - [CVPR2019] [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
+  - SlowFast
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
 - [CVPR2018] [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf)
   - How much motion matters 
 - [ICCV2017] [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)
-  - P3D (Comparison with 2D ResNet)
+  - P3D 
+  - Comparison with 2D ResNet
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
   - TSN
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
