@@ -28,6 +28,7 @@
 
 ##### Temporal Action Recognition
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
+- [CVPR2019] [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
 - [CVPR2018] [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf)
