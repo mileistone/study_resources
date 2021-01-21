@@ -46,3 +46,4 @@
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
 - [NIPS2014] [Two-Stream Convolutional Networks for Action Recognition in Videos](https://papers.nips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)
   - Two-Stream
+- [CVPR2014] [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/42455.pdf)
