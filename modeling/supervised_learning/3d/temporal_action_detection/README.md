@@ -42,6 +42,7 @@
 - [CVPR2017] [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750)
   - Kinetics
   - I3D
+  - LSTM vs Two-Stream vs 3D-ConvNet vs 3D-Fused vs Two-Stream I3D
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
   - TSN
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
