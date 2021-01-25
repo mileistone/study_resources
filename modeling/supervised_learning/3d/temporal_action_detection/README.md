@@ -31,6 +31,8 @@
 - [CVPR2019] [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
   - SlowFast
 - [ICCV2019] [Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/abs/1904.02811)
+  - CSN
+  - conv vs depthwise vs group conv vs space-time decomposition
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
 - [CVPR2018] [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf)
