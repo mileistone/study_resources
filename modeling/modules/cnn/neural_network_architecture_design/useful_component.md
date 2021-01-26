@@ -20,7 +20,6 @@
 
 ##### 2018
 - [CVPR2018] [Non-local neural networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
-- [CVPR2018] [Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions](https://arxiv.org/abs/1711.08141)
 - [1811.11718] [Partial Convolution based Padding](https://arxiv.org/abs/1811.11718)
 - [1811.11168] [Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168)
 - [1810.12890] [DropBlock: A regularization method for convolutional networks](https://arxiv.org/abs/1810.12890)
