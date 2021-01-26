@@ -18,6 +18,7 @@
   - TSM
 - [1905.13209] [AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures](https://arxiv.org/abs/1905.13209)
 ##### 2018
+- [ECCV2018] [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/abs/1712.04851)
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
 - [CVPR2018] [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf)
