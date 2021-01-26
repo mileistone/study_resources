@@ -1,5 +1,6 @@
 ##### 2020
 - [CVPR2020] [Temporal Pyramid Network for Action Recognition](https://arxiv.org/abs/2012.06567)
+  - TPN
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
 - [2004.04730] [X3D: Expanding Architectures for Efficient Video Recognition](https://arxiv.org/abs/2004.04730)
   - X3D
