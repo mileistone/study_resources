@@ -25,7 +25,7 @@
   - mix 2D-Conv with 3D-Conv
   - feature gating (SENet)
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
-  - R2+1D
+  - R(2+1)D
 - [CVPR2018] [What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets](http://ai.stanford.edu/~dahuang/papers/cvpr18-fb.pdf)
   - How much motion matters
 - [CVPR2018] [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
