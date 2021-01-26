@@ -16,6 +16,8 @@
   - conv vs depthwise vs group conv vs space-time decomposition
 - [ICCV2019] [TSM: Temporal Shift Module for Efficient Video Understanding](https://arxiv.org/abs/1811.08383)
   - TSM
+  - accurate and efficient
+  - 2D-Conv equipped with TSM has the ability of temporal modeling
 - [1905.13209] [AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures](https://arxiv.org/abs/1905.13209)
 ##### 2018
 - [ECCV2018] [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/abs/1712.04851)
