@@ -1,9 +1,11 @@
 ##### 2020
+- [ECCV2020] [AssembleNet++: Assembling Modality Representations via Attention Connections](https://arxiv.org/abs/2008.08072)
 - [CVPR2020] [Temporal Pyramid Network for Action Recognition](https://arxiv.org/abs/2012.06567)
   - TPN
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
 - [2004.04730] [X3D: Expanding Architectures for Efficient Video Recognition](https://arxiv.org/abs/2004.04730)
   - X3D
+- [2002.07442] [V4D:4D Convolutional Neural Networks for Video-level Representation Learning](https://arxiv.org/abs/2002.07442)
 - [2001.06499] [Temporal Interlacing Network](https://arxiv.org/abs/2001.06499)
   - TIN
 ##### 2019
@@ -14,6 +16,7 @@
   - conv vs depthwise vs group conv vs space-time decomposition
 - [ICCV2019] [TSM: Temporal Shift Module for Efficient Video Understanding](https://arxiv.org/abs/1811.08383)
   - TSM
+- [1905.13209] [AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures](https://arxiv.org/abs/1905.13209)
 ##### 2018
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
