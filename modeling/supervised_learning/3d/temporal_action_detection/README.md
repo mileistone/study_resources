@@ -30,12 +30,18 @@
 ###### 2020
 - [CVPR2020] [Temporal Pyramid Network for Action Recognition](https://arxiv.org/abs/2012.06567)
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
+- [2004.04730] [X3D: Expanding Architectures for Efficient Video Recognition](https://arxiv.org/abs/2004.04730)
+  - X3D
+- [2001.06499] [Temporal Interlacing Network](https://arxiv.org/abs/2001.06499)
+  - TIN
 ###### 2019
 - [CVPR2019] [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
   - SlowFast
 - [ICCV2019] [Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/abs/1904.02811)
   - CSN
   - conv vs depthwise vs group conv vs space-time decomposition
+- [ICCV2019] [TSM: Temporal Shift Module for Efficient Video Understanding](https://arxiv.org/abs/1811.08383)
+  - TSM
 ###### 2018
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R2+1D
