@@ -61,6 +61,8 @@
 
 [Book] [Computer Vision: A Modern Approach](https://eclass.teicrete.gr/modules/document/file.php/TM152/Books/Computer%20Vision%20-%20A%20Modern%20Approach%20-%20D.%20Forsyth,%20J.%20Ponce.pdf)
 
+[Book] [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+
 ### Convolutional Neural Networks
 
 - Required
