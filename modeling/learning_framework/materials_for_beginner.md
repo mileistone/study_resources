@@ -59,7 +59,7 @@
 
 [Course] [Stanford CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/schedule.html)
 
-[Book] [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf)
+[Book] [Computer Vision: A Modern Approach](https://eclass.teicrete.gr/modules/document/file.php/TM152/Books/Computer%20Vision%20-%20A%20Modern%20Approach%20-%20D.%20Forsyth,%20J.%20Ponce.pdf)
 
 ### Convolutional Neural Networks
 
