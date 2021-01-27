@@ -5,6 +5,7 @@
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
 - [2004.04730] [X3D: Expanding Architectures for Efficient Video Recognition](https://arxiv.org/abs/2004.04730)
   - X3D
+  - similar to EfficientDet (compound scaling of input size, width, depth), MobileNet (block)
 - [2002.07442] [V4D:4D Convolutional Neural Networks for Video-level Representation Learning](https://arxiv.org/abs/2002.07442)
 - [2001.06499] [Temporal Interlacing Network](https://arxiv.org/abs/2001.06499)
   - TIN
