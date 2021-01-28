@@ -7,6 +7,7 @@
   - X3D
   - similar to EfficientDet (compound scaling of input size, width, depth), MobileNet (block)
 - [2002.07442] [V4D:4D Convolutional Neural Networks for Video-level Representation Learning](https://arxiv.org/abs/2002.07442)
+  - Psudo 4D, bad paper
 - [2001.06499] [Temporal Interlacing Network](https://arxiv.org/abs/2001.06499)
   - TIN
 ##### 2019
