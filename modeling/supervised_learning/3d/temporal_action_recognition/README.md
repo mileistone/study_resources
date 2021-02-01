@@ -44,6 +44,7 @@
   - LSTM vs Two-Stream vs 3D-ConvNet vs 3D-Fused vs Two-Stream I3D
 ##### 2016
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
+  - Two-Stream
   - TSN
   - training
     - great modeling capacity
@@ -59,11 +60,15 @@
       - RGB difference
       - optical flow
       - warped optical flow
+  - testing
+    - given a video, we sample a fixed number of frames (25 in our experiments) with equal temporal spacing between them
+    - cropping and flipping four corners and the center of the frame
     
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
   - C3D
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
+  - Two-Stream
   - training
     - data augmentation
       - corner cropping
@@ -73,9 +78,14 @@
       - pre-training
       - high dropout ratio
     - small learning rate
+  - testing
+    - given a video, we sample a fixed number of frames (25 in our experiments) with equal temporal spacing between them
+    - cropping and flipping four corners and the center of the frame
 ##### 2014
 - [NIPS2014] [Two-Stream Convolutional Networks for Action Recognition in Videos](https://papers.nips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)
   - Two-Stream
+    - RGB
+    - optical flow
   - training
     - data augmentation
       - random cropping
