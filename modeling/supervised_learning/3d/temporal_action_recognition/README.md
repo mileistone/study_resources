@@ -48,6 +48,7 @@
   - RGB difference
   - partial BN with dropout
   - cross modality pre-training
+  - great modeling capacity
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
   - C3D
