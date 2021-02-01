@@ -45,15 +45,20 @@
 ##### 2016
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
   - TSN
-  - tweaks
-    - cross modality pre-training
+  - training
     - great modeling capacity
     - data augmentation
       - corner cropping
       - scale jittering
       - horizontal flipping
-    - partial BN with dropout
-    - add RGB difference as input
+    - regularization
+      - partial BN with dropout
+      - pre-training
+      - cross modality pre-training
+    - multi-modality
+      - RGB difference
+      - optical flow
+      - warped optical flow
     
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
