@@ -55,7 +55,7 @@
   - pre-training
   - data augmentation
     - corner cropping
-    - scale jiTtering
+    - scale jittering
   - high dropout ratio
   - small learning rate
 ##### 2014
