@@ -46,6 +46,8 @@
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
   - TSN
   - RGB difference
+  - partial BN with dropout
+  - cross modality pre-training
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
   - C3D
