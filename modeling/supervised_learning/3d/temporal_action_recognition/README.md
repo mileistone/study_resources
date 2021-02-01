@@ -58,6 +58,7 @@
   - data augmentation
     - corner cropping
     - scale jittering
+    - horizontal flipping
   - high dropout ratio
   - small learning rate
 ##### 2014
