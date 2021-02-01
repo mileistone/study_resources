@@ -46,23 +46,41 @@
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
   - TSN
   - tweaks
-    - add RGB difference as input
-    - partial BN with dropout
     - cross modality pre-training
     - great modeling capacity
+    - data augmentation
+      - corner cropping
+      - scale jittering
+      - horizontal flipping
+    - partial BN with dropout
+    - add RGB difference as input
+    
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
   - C3D
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
-  - pre-training
-  - data augmentation
-    - corner cropping
-    - scale jittering
-    - horizontal flipping
-  - high dropout ratio
-  - small learning rate
+  - training
+    - data augmentation
+      - corner cropping
+      - scale jittering
+      - random horizontal flipping
+    - regularization
+      - pre-training
+      - high dropout ratio
+    - small learning rate
 ##### 2014
 - [NIPS2014] [Two-Stream Convolutional Networks for Action Recognition in Videos](https://papers.nips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)
   - Two-Stream
+  - training
+    - data augmentation
+      - random cropping
+      - color jittering
+      - random horizontal flipping
+    - regularization
+      - pre-training
+      - high dropout ratio
+  - testing
+    - given a video, we sample a fixed number of frames (25 in our experiments) with equal temporal spacing between them
+    - cropping and flipping four corners and the center of the frame
 - [CVPR2014] [Large-scale Video Classification with Convolutional Neural Networks](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/42455.pdf)
   - Sports-1M
