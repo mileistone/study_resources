@@ -52,6 +52,12 @@
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
   - C3D
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
+  - pre-training
+  - data augmentation
+    - corner cropping
+    - scale jiTtering
+  - high dropout ratio
+  - small learning rate
 ##### 2014
 - [NIPS2014] [Two-Stream Convolutional Networks for Action Recognition in Videos](https://papers.nips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)
   - Two-Stream
