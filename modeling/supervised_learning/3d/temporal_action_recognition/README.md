@@ -67,6 +67,12 @@
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
   - C3D
+  - training
+    - data augmentation
+      - randomly extract five 2-second long clips from every training video
+      - clips are resized to have a frame size of 128 × 171
+      - randomly crop input clips into 16×112×112 crops for spatial and temporal jittering
+      - random horizontal flipping
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
   - Two-Stream
   - training
