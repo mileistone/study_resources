@@ -38,10 +38,31 @@
 - [ICCV2017] [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)
   - P3D 
   - Comparison with 2D ResNet
+  - training
+    - data augmentation
+      - 16-frame snippets
+      - random cropping spatially
+        - resizing the smaller video side to 256 pixels, then randomly cropping a 224 × 224 patch
+      - random cropping temporally
+      - horizontal random flipping
+    - testing
+      - the models are applied convolutionally over the whole video taking 224 × 224 center crops, and the predictions are averaged
+        - We briefly tried spatially-convolutional testing on the 256 × 256 videos, but did not observe improvement
 - [CVPR2017] [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750)
   - Kinetics
   - I3D
   - LSTM vs Two-Stream vs 3D-ConvNet vs 3D-Fused vs Two-Stream I3D
+  - training
+    - data augmentation
+      - 64-frame snippets
+      - random cropping spatially
+        - resizing the smaller video side to 256 pixels, then randomly cropping a 224 × 224 patch
+      - random cropping temporally
+      - horizontal random flipping
+    - testing
+      - the models are applied convolutionally over the whole video taking 224 × 224 center crops, and the predictions are averaged
+        - We briefly tried spatially-convolutional testing on the 256 × 256 videos, but did not observe improvement
+      
 ##### 2016
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
   - Two-Stream
@@ -51,7 +72,7 @@
     - data augmentation
       - corner cropping
       - scale jittering
-      - horizontal flipping
+      - horizontal random flipping
     - regularization
       - partial BN with dropout
       - pre-training
@@ -72,7 +93,7 @@
       - randomly extract five 2-second long clips from every training video
       - clips are resized to have a frame size of 128 × 171
       - randomly crop input clips into 16×112×112 crops for spatial and temporal jittering
-      - random horizontal flipping
+      - horizontal random flipping
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
   - Two-Stream
   - training
