@@ -54,7 +54,7 @@ prediction
   
 - [ICCV2019] [Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/abs/1904.02811)
   - CSN
-  - conv vs depthwise vs group conv vs space-time decomposition
+    - conv vs depthwise vs group conv vs space-time decomposition
   - training
     - data augmentation
       - temporal
@@ -75,8 +75,8 @@ prediction
 ##### 2018
 - [ECCV2018] [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/abs/1712.04851)
   - S3D
-  - mix 2D-Conv with 3D-Conv
-  - feature gating (SENet)
+    - mix 2D-Conv with 3D-Conv
+    - feature gating (SENet)
   - training
     - data augmentation
       - temporal
@@ -123,7 +123,7 @@ prediction
 ##### 2017
 - [ICCV2017] [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)
   - P3D 
-  - Comparison with 2D ResNet
+    - comparison with 2D ResNet
   - training
     - data augmentation
       - temporal 
@@ -135,11 +135,11 @@ prediction
         - horizontal random flip
   - testing
     - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
-      - We briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
+      - we briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
 - [CVPR2017] [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750)
   - Kinetics
   - I3D
-  - LSTM vs Two-Stream vs 3D-ConvNet vs 3D-Fused vs Two-Stream I3D
+    - LSTM vs Two-Stream vs 3D-ConvNet vs 3D-Fused vs Two-Stream I3D
   - training
     - data augmentation
       - temporal
@@ -155,8 +155,8 @@ prediction
       
 ##### 2016
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
-  - Two-Stream
   - TSN
+    - Two-Stream
   - training
     - great modeling capacity
     - data augmentation
