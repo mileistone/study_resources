@@ -28,7 +28,7 @@ prediction
         - random cropping
           - we randomly sample a clip from the full-length video
       - spatial
-        - random cropping and scale jittering
+        - scale jittering and random cropping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
   - testing
     -  Temporally, uniformly samples K clips (e.g. K=10) from a video and spatially scales the shorter spatial side to specific pixels and takes a center crop
@@ -45,7 +45,7 @@ prediction
         - random cropping
           - we randomly sample a clip from the full-length video
       - spatial
-        - random cropping and scale jittering
+        - scale jittering and random cropping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
   - testing
     - we uniformly sample 10 clips from a video along its temporal axis
