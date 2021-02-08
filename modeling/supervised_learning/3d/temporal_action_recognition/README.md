@@ -11,7 +11,7 @@
       - a dropout of 0.5
   - testing
     - three-crop testing refers to three random crops of size 256×256 from the original frames, which are resized firstly to have 256 pixels in their shorter sides
-    - ten-crop testing basically follows the procedure of [31], which extracts 5 crops of size 224×224 and flips these crops
+    - ten-crop testing, which extracts 5 crops of size 224×224 and flips these crops
     - uniformly sample 10 clips of the whole video and average the softmax probabilities of all clips as the final
 prediction
 - [2012.06567] [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
@@ -85,7 +85,7 @@ prediction
       - the spatial size is 224×224 pixels, randomly cropped from a scaled video whose shorter side is randomly sampled in [256, 320] pixels
     - regularization
       - dropout after the global pooling layer, with a dropout ratio of 0.5
-   - testing
+  - testing
     - perform spatially fully convolutional inference on videos whose shorter side is rescaled to 256
     - for the temporal domain, in our practice we sample 10 clips evenly from a full-length video and compute the softmax scores on them individually
     - the final prediction is the averaged softmax scores of all clips.
@@ -100,9 +100,9 @@ prediction
         - resizing the smaller video side to 256 pixels, then randomly cropping a 224×224 patch
       - random cropping temporally
       - horizontal random flipping
-    - testing
-      - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
-        - We briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
+  - testing
+    - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
+      - We briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
 - [CVPR2017] [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/abs/1705.07750)
   - Kinetics
   - I3D
@@ -114,9 +114,9 @@ prediction
         - resizing the smaller video side to 256 pixels, then randomly cropping a 224×224 patch
       - random cropping temporally
       - horizontal random flipping
-    - testing
-      - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
-        - We briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
+  - testing
+    - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
+      - We briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
       
 ##### 2016
 - [ECCV2016] [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
