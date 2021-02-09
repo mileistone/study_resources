@@ -56,12 +56,12 @@ prediction
       - spatial
         - scale jittering and random cropping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
-      - regularization
-        - dropout
-          - before final classifier
-          - 0.5
-        - BN
-          - enabled
+    - regularization
+      - dropout
+        - before final classifier
+        - 0.5
+      - BN
+        - enabled
   - testing
     - we uniformly sample 10 clips from a video along its temporal axis
     - for each clip, we scale the shorter spatial side to 256 pixels and take 3 crops of 256×256 to cover the spatial dimensions, as an approximation of fully-convolutional testing
@@ -78,7 +78,6 @@ prediction
       - spatial
         - scale jittering
         - random cropping
-
   - testing
     - center crops of 10 clips uniformly sampled from the video
     - average these 10 clip predictions to obtain the final video prediction
@@ -154,7 +153,7 @@ prediction
       - temporal 
         - random cropping
           - 16-frame snippets
-      - sptial
+      - spatial
         - random cropping
           - resize the smaller video side to 256 pixels, then randomly crop a 224×224 patch
         - horizontal random flip
