@@ -10,7 +10,7 @@
       - spatial
         - scale jittering
           - each frame is randomly cropped so that its short side ranges in [256, 320] pixels
-        - horizontal random flip
+        - horizontal random flipping
     - regularization
       - dropout
         - 0.5
@@ -31,7 +31,7 @@ prediction
         - random cropping
           - we randomly sample a clip from the full-length video
       - spatial
-        - scale jittering, random cropping and horizontal random flip
+        - scale jittering, random cropping and horizontal random flipping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
     - regularization
       - dropout
@@ -54,7 +54,7 @@ prediction
         - random cropping
           - we randomly sample a clip from the full-length video
       - spatial
-        - scale jittering, random cropping and horizontal random flip
+        - scale jittering, random cropping and horizontal random flipping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
     - regularization
       - dropout
@@ -156,7 +156,7 @@ prediction
       - spatial
         - random cropping
           - resize the smaller video side to 256 pixels, then randomly crop a 224×224 patch
-        - horizontal random flip
+        - horizontal random flipping
     - regularization
       - dropout
         - 0.9 for UCF101
@@ -178,7 +178,7 @@ prediction
       - spatial
         - random cropping
           - resize the smaller video side to 256 pixels, then randomly crop a 224×224 patch
-        - horizontal random flip
+        - horizontal random flipping
   - testing
     - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
       - We briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
@@ -193,7 +193,7 @@ prediction
       - spatial
         - corner cropping
         - scale jittering
-        - horizontal random flip
+        - horizontal random flipping
     - regularization
       - partial BN with dropout
       - pre-training
@@ -218,7 +218,7 @@ prediction
       - spatial
         - random cropping
           - resize to have a frame size of 128×171, then randomly crop a 112×112 patch
-        - horizontal random flip
+        - horizontal random flipping
 - [1507.02159] [Towards Good Practices for Very Deep Two-Stream ConvNet](https://arxiv.org/abs/1507.02159)
   - Two-Stream
   - training
@@ -226,7 +226,7 @@ prediction
       - spatial
         - corner cropping
         - scale jittering
-        - horizontal random flip
+        - horizontal random flipping
     - regularization
       - pre-training
       - dropout
@@ -244,7 +244,7 @@ prediction
     - data augmentation
       - spatial
         - random cropping
-        - horizontal random flip
+        - horizontal random flipping
       - pixel
         - color jittering
     - regularization
