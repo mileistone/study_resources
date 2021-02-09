@@ -205,7 +205,7 @@ prediction
       - warped optical flow
   - testing
     - given a video, we sample a fixed number of frames (25 in our experiments) with equal temporal spacing between them
-    - cropping and flipping four corners and the center of the frame
+    - crop and flip four corners and the center of the frame
     
 ##### 2015
 - [ICCV2015] [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
@@ -235,7 +235,7 @@ prediction
     - small learning rate
   - testing
     - given a video, we sample a fixed number of frames (25 in our experiments) with equal temporal spacing between them
-    - cropping and flipping four corners and the center of the frame
+    - crop and flip four corners and the center of the frame
 ##### 2014
 - [NIPS2014] [Two-Stream Convolutional Networks for Action Recognition in Videos](https://papers.nips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)
   - Two-Stream
