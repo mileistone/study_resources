@@ -12,7 +12,10 @@
           - each frame is randomly cropped so that its short side ranges in [256, 320] pixels
         - horizontal random flip
     - regularization
-      - a dropout of 0.5
+      - dropout
+        - 0.5
+      - BN
+        - enabled
   - testing
     - three-crop testing refers to three random crops of size 256×256 from the original frames, which are resized firstly to have 256 pixels in their shorter sides
     - ten-crop testing, which extracts 5 crops of size 224×224 and flips these crops
@@ -30,6 +33,12 @@ prediction
       - spatial
         - scale jittering and random cropping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
+    - regularization
+      - dropout
+        - before final classifier
+        - 0.5
+      - BN
+        - enabled
   - testing
     -  Temporally, uniformly samples K clips (e.g. K=10) from a video and spatially scales the shorter spatial side to specific pixels and takes a center crop
 - [2002.07442] [V4D:4D Convolutional Neural Networks for Video-level Representation Learning](https://arxiv.org/abs/2002.07442)
@@ -47,6 +56,12 @@ prediction
       - spatial
         - scale jittering and random cropping
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
+      - regularization
+        - dropout
+          - before final classifier
+          - 0.5
+        - BN
+          - enabled
   - testing
     - we uniformly sample 10 clips from a video along its temporal axis
     - for each clip, we scale the shorter spatial side to 256 pixels and take 3 crops of 256×256 to cover the spatial dimensions, as an approximation of fully-convolutional testing
@@ -71,6 +86,12 @@ prediction
   - TSM
   - accurate and efficient
   - 2D-Conv equipped with TSM has the ability of temporal modeling
+  - training
+    - regularization
+      - dropout
+        - 0.5
+      - BN
+        - frozen
 - [1905.13209] [AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures](https://arxiv.org/abs/1905.13209)
 ##### 2018
 - [ECCV2018] [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/abs/1712.04851)
@@ -115,7 +136,11 @@ prediction
         - scale jittering and random cropping
           - the spatial size is 224×224 pixels, randomly cropped from a scaled video whose shorter side is randomly sampled in [256, 320] pixels
     - regularization
-      - dropout after the global pooling layer, with a dropout ratio of 0.5
+      - dropout
+        - after the global pooling layer
+        - 0.5
+      - BN
+        - enabled
   - testing
     - perform spatially fully convolutional inference on videos whose shorter side is rescaled to 256
     - for the temporal domain, in our practice we sample 10 clips evenly from a full-length video and compute the softmax scores on them individually
@@ -133,6 +158,12 @@ prediction
         - random cropping
           - resize the smaller video side to 256 pixels, then randomly crop a 224×224 patch
         - horizontal random flip
+    - regularization
+      - dropout
+        - 0.9 for UCF101
+        - 0.1 for Sports-1M
+      - BN
+        - frozen
   - testing
     - the models are applied convolutionally over the whole video taking 224×224 center crops, and the predictions are averaged
       - we briefly tried spatially-convolutional testing on the 256×256 videos, but did not observe improvement
@@ -199,7 +230,8 @@ prediction
         - random horizontal flip
     - regularization
       - pre-training
-      - high dropout ratio
+      - dropout
+        - 0.9 or o.8
     - small learning rate
   - testing
     - given a video, we sample a fixed number of frames (25 in our experiments) with equal temporal spacing between them
