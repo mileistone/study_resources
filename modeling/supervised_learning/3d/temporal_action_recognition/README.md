@@ -31,7 +31,7 @@ prediction
         - random cropping
           - we randomly sample a clip from the full-length video
       - spatial
-        - scale jittering and random cropping
+        - scale jittering, random cropping and horizontal random flip
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
     - regularization
       - dropout
@@ -54,7 +54,7 @@ prediction
         - random cropping
           - we randomly sample a clip from the full-length video
       - spatial
-        - scale jittering and random cropping
+        - scale jittering, random cropping and horizontal random flip
           - we randomly crop 224×224 pixels from a video, or its horizontal flip, with a shorter side randomly sampled in [256, 320] pixels
     - regularization
       - dropout
@@ -226,7 +226,7 @@ prediction
       - spatial
         - corner cropping
         - scale jittering
-        - random horizontal flip
+        - horizontal random flip
     - regularization
       - pre-training
       - dropout
@@ -244,7 +244,7 @@ prediction
     - data augmentation
       - spatial
         - random cropping
-        - random horizontal flip
+        - horizontal random flip
       - pixel
         - color jittering
     - regularization
