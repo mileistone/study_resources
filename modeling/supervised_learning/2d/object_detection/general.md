@@ -2,6 +2,8 @@
 
 ## Anchor based
 
+- [CVPR2021] [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)
+
 - [2007.12099] [PP-YOLO: An Effective and Efficient Implementation of Object Detector](https://arxiv.org/abs/2007.12099)
 
 - [2004.10934] [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
