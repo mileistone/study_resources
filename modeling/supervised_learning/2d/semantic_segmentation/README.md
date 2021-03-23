@@ -15,6 +15,8 @@
 
 ### All kinds of models 
 
+- [2012.15840] [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)
+
 - [1912.08193] [PointRend: Image Segmentation as Rendering](https://arxiv.org/abs/1912.08193)
 
 - [1901.02446] [Panoptic Feature Pyramid Networks](https://arxiv.org/abs/1901.02446) # FPN
