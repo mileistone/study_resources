@@ -1,6 +1,8 @@
 
 ### 2020
 
+- [2104.05458] [PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network](https://arxiv.org/abs/2104.05458)
+
 - [CVPR2020] [ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network](https://arxiv.org/abs/2002.10200)
 
 - [ECCV2020] [Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting](https://arxiv.org/abs/2007.09482)
