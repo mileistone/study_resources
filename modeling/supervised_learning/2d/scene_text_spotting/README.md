@@ -47,8 +47,8 @@
 
 ### 2017
 
-- [AAAI2017] [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://arxiv.org/pdf/1611.06779.pdf) # have spotting part
-
 - [ICCV2017] [Towards End-To-End Text Spotting With Convolutional Recurrent Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 
 - [ICCV2017] [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](https://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)
+
+- [AAAI2017] [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://arxiv.org/pdf/1611.06779.pdf) # have spotting part
