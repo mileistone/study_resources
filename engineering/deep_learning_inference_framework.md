@@ -14,8 +14,10 @@
 
 #### Publications & Preprints
 
-- [2002.12418] [MNN: A Universal and Efficient Inference Engine](https://arxiv.org/abs/2002.12418)
-
 - [2010.08678] [TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems](https://arxiv.org/abs/2010.08678)
 
+- [2002.12418] [MNN: A Universal and Efficient Inference Engine](https://arxiv.org/abs/2002.12418)
+
 - [1904.09274] [Deep Learning on Mobile Devices - A Review](https://arxiv.org/abs/1904.09274)
+
+- [1802.04799] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
