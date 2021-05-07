@@ -1,3 +1,5 @@
+##### 2021
+- [2105.01601] [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601)
 
 ##### 2020
 - [CVPR2020] [Learning in the Frequency Domain](https://arxiv.org/abs/2002.12416)
