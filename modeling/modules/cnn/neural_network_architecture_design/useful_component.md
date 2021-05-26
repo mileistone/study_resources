@@ -1,4 +1,5 @@
 ##### 2021
+- [2105.07576] [Rethinking "Batch" in BatchNorm](https://arxiv.org/abs/2105.07576)
 - [2105.01601] [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601)
 
 ##### 2020
