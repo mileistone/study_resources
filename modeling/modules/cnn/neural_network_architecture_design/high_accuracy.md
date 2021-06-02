@@ -1,5 +1,8 @@
+- [2101.03697] [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)
+
 - [TPAMI2020] [Deep High-Resolution Representation Learning
 for Visual Recognition](https://arxiv.org/abs/1908.07919)
+
 - [1908.03930] [ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
 
 - [1909.03625] [CBNet: A Novel Composite Backbone Network Architecture for Object Detection](https://arxiv.org/abs/1909.03625)
