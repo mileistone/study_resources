@@ -40,7 +40,7 @@
   - [feature alignment](https://arxiv.org/abs/1703.06211)
     - kernel size、stride、padding共同影响
     - 对dense prediction任务会有较大影响
-  - over-parameterized
+  - over-parameterization
     - [ACNet](https://arxiv.org/abs/1908.03930)
     - [RepVGG](https://arxiv.org/abs/2101.03697)
   - position awared
