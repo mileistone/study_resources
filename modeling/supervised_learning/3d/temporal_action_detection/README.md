@@ -1,4 +1,7 @@
-#### Single Stage
+### Single Stage
+
+#### Detection-based
+
 ##### 2020
 - [CVPR2020] [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_G-TAD_Sub-Graph_Localization_for_Temporal_Action_Detection_CVPR_2020_paper.pdf)
   - Extract features via pre-trained temporal action recognition models
@@ -18,12 +21,12 @@
 - [BMVC2017] [End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf)
 - [MM2017] [Single Shot Temporal Action Detection](https://arxiv.org/abs/1710.06236)
 
-##### Segmentation Based
+#### Segmentation-based
 - [1608.08128] [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks](https://arxiv.org/abs/1608.08128)
 - [THUMOS14 submission] [Action Recognition and Detection by Combining Motion and Appearance Features](http://crcv.ucf.edu/THUMOS14/papers/CUHK&SIAT.pdf)
 - [THUMOS14 submission] [The LEAR Submission at Thumos 2014](https://hal.inria.fr/hal-01074442/document)
 
-#### Two Stage
-##### Temporal Action Proposal Generation
+### Two Stage
+#### Temporal Action Proposal Generation
 
 
