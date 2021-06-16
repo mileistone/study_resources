@@ -1,5 +1,9 @@
+##### 2021
+- [2102.05095] [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
+
 ##### 2020
 - [ECCV2020] [AssembleNet++: Assembling Modality Representations via Attention Connections](https://arxiv.org/abs/2008.08072)
+- [ECCV2020] [Motionsqueeze: Neural motion feature learning for video understanding](https://arxiv.org/abs/2007.09933)
 - [CVPR2020] [Temporal Pyramid Network for Action Recognition](https://arxiv.org/abs/2004.03548)
   - TPN
   - training
@@ -45,7 +49,9 @@ prediction
   - Psudo 4D, bad paper
 - [2001.06499] [Temporal Interlacing Network](https://arxiv.org/abs/2001.06499)
   - TIN
+- [2008.03462] [PAN: Towards Fast Action Recognition via Learning Persistence of Appearance](https://arxiv.org/abs/2008.03462)
 ##### 2019
+- [CVPR2019] [Representation Flow for Action Recognition](https://arxiv.org/abs/1810.01455)
 - [CVPR2019] [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
   - SlowFast
   - training
@@ -91,6 +97,7 @@ prediction
         - 0.5
       - BN
         - frozen
+- [ICCV2019] [STM: SpatioTemporal and Motion Encoding for Action Recognition](https://arxiv.org/abs/1908.02486)
 - [1905.13209] [AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures](https://arxiv.org/abs/1905.13209)
 ##### 2018
 - [ECCV2018] [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://arxiv.org/abs/1712.04851)
@@ -109,6 +116,9 @@ prediction
     - use all frames and take 224×224 center crops from the resized frames
 - [ECCV2018] [Temporal Relational Reasoning in Videos](https://arxiv.org/abs/1711.08496)
   - TRN
+- [ECCV2018] [Motion Feature Network: Fixed Motion Filter for Action Recognition](https://arxiv.org/abs/1807.10037)
+- [CVPR2018] [Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
+- [CVPR2018] [End-to-End Learning of Motion Representation for Video Understanding](https://arxiv.org/abs/1804.00413)
 - [CVPR2018] [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/abs/1711.11248)
   - R(2+1)D
   - training
@@ -144,6 +154,7 @@ prediction
     - perform spatially fully convolutional inference on videos whose shorter side is rescaled to 256
     - for the temporal domain, in our practice we sample 10 clips evenly from a full-length video and compute the softmax scores on them individually
     - the final prediction is the averaged softmax scores of all clips.
+  - [ACCV2018] [Hidden Two-Stream Convolutional Networks for Action Recognition](https://arxiv.org/abs/1704.00389)
 ##### 2017
 - [ICCV2017] [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf)
   - P3D 
