@@ -15,7 +15,7 @@
 - [ICME2020] [Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos](https://arxiv.org/abs/1908.00707)
   - Adapt ASPP to Temporal Action Localization
 - [PRCV2020] [Multi-Level Temporal Pyramid Network for Action Detection](https://arxiv.org/abs/2008.03270)
-- [2006.07526v2] [CBR-Net: Cascade Boundary Refinement Network for Action Detection: Submission to ActivityNet Challenge 2020](https://arxiv.org/abs/2006.07526v2)
+- [2006.07526] [CBR-Net: Cascade Boundary Refinement Network for Action Detection: Submission to ActivityNet Challenge 2020](https://arxiv.org/abs/2006.07526v2)
 
 ##### 2019
 - [CVPR2019] [Gaussian Temporal Awareness Networks for Action Localization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Long_Gaussian_Temporal_Awareness_Networks_for_Action_Localization_CVPR_2019_paper.pdf)
