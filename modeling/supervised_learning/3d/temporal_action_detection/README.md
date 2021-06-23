@@ -5,6 +5,8 @@
 ##### 2021
 - [2101.08540] [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540)
 - [CVPR2021] [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
+  - propose the first purely anchor-free temporal localization method
+  - RGB + optical flow
 
 ##### 2020
 - [CVPR2020] [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_G-TAD_Sub-Graph_Localization_for_Temporal_Action_Detection_CVPR_2020_paper.pdf)
@@ -15,6 +17,7 @@
   - combine anchor-free module and anchor-based module
   - extract features via pre-trained temporal action recognition model
   - one-stage
+  - RGB + optical flow
 - [MM2020] [Deep Concept-wise Temporal Convolutional Networks for Action Localization](https://arxiv.org/abs/1908.09442)
 - [ICME2020] [Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos](https://arxiv.org/abs/1908.00707)
   - Adapt ASPP to Temporal Action Localization
