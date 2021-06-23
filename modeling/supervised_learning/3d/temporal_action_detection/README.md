@@ -4,7 +4,12 @@
 
 ##### 2021
 - [2101.08540] [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540)
-
+  - extract features via pre-trained temporal action recognition model
+    - two-stream
+  - one-stage
+  - RGB + optical flow
+    - early fusion
+      - concatenate
 ##### 2020
 - [CVPR2020] [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_G-TAD_Sub-Graph_Localization_for_Temporal_Action_Detection_CVPR_2020_paper.pdf)
   - extract features via pre-trained temporal action recognition model
@@ -12,6 +17,7 @@
   - propose a novel anchor-free action localization module
   - combine anchor-free module and anchor-based module
   - extract features via pre-trained temporal action recognition model
+    - two-stream
   - one-stage
   - RGB + optical flow
     - early fusion
@@ -21,9 +27,11 @@
   - Adapt ASPP to Temporal Action Localization
 - [PRCV2020] [Multi-Level Temporal Pyramid Network for Action Detection](https://arxiv.org/abs/2008.03270)
   - extract features via pre-trained temporal action recognition model
+    - two-stream
   - one-stage
+  - RGB + optical flow
     - early fusion
-      - RGB + optical flow
+      - concatenate
 - [2006.07526] [CBR-Net: Cascade Boundary Refinement Network for Action Detection: Submission to ActivityNet Challenge 2020](https://arxiv.org/abs/2006.07526v2)
 
 ##### 2019
