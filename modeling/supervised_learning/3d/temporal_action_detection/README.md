@@ -14,11 +14,16 @@
   - extract features via pre-trained temporal action recognition model
   - one-stage
   - RGB + optical flow
-    - concatenate
+    - early fusion
+      - concatenate
 - [MM2020] [Deep Concept-wise Temporal Convolutional Networks for Action Localization](https://arxiv.org/abs/1908.09442)
 - [ICME2020] [Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos](https://arxiv.org/abs/1908.00707)
   - Adapt ASPP to Temporal Action Localization
 - [PRCV2020] [Multi-Level Temporal Pyramid Network for Action Detection](https://arxiv.org/abs/2008.03270)
+  - extract features via pre-trained temporal action recognition model
+  - one-stage
+    - early fusion
+      - RGB + optical flow
 - [2006.07526] [CBR-Net: Cascade Boundary Refinement Network for Action Detection: Submission to ActivityNet Challenge 2020](https://arxiv.org/abs/2006.07526v2)
 
 ##### 2019
