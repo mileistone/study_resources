@@ -1,19 +1,13 @@
-### Single Stage
+### Single-Stage
 
 #### Detection-based
 
 ##### 2021
 - [2101.08540] [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540)
-- [CVPR2021] [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
-  - propose the first purely anchor-free temporal localization method
-  - RGB + optical flow
-    - late fusion
-      - average location and classification score
 
 ##### 2020
 - [CVPR2020] [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_G-TAD_Sub-Graph_Localization_for_Temporal_Action_Detection_CVPR_2020_paper.pdf)
   - extract features via pre-trained temporal action recognition model
-- [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
 - [TIP2020] [Revisiting Anchor Mechanisms for Temporal Action Localization](https://arxiv.org/abs/2008.09837)
   - propose a novel anchor-free action localization module
   - combine anchor-free module and anchor-based module
@@ -46,7 +40,7 @@
 - [THUMOS14 submission] [Action Recognition and Detection by Combining Motion and Appearance Features](http://crcv.ucf.edu/THUMOS14/papers/CUHK&SIAT.pdf)
 - [THUMOS14 submission] [The LEAR Submission at Thumos 2014](https://hal.inria.fr/hal-01074442/document)
 
-### Two Stage
+### Multi-Stage
 #### Proposal Generation
 ##### 2021
 - [CVPR2021] [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141)
@@ -69,6 +63,15 @@
 - [CVPR2018] [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
 
 ##### Detection
+- [CVPR2021] [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
+  - propose the first purely anchor-free temporal localization method
+  - RGB + optical flow
+    - late fusion
+      - average location and classification score
+- [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
+  - RGB + optical flow
+    - late fusion
+      - average location and classification score
 ##### 2017
 - [ICCV2017] [R-C3D: Region Convolutional 3D Network for Temporal Activity Detection](https://arxiv.org/abs/1703.07814)
 
