@@ -83,6 +83,9 @@
 ##### 2019
 - [ICCV2019] [BMN: Boundary-Matching Network for Temporal Action Proposal Generation](https://arxiv.org/abs/1907.09702)
 - [ICCV2019] [Graph Convolutional Networks for Temporal Action Localization](https://arxiv.org/abs/1909.03252)
+  - extract features via pre-trained temporal action recognition model
+    - two-stream
+  - RGB + optical flow
 - [CVPR2019] [Multi-granularity Generator for Temporal Action Proposal](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Multi-Granularity_Generator_for_Temporal_Action_Proposal_CVPR_2019_paper.pdf)
 
 ##### 2018
