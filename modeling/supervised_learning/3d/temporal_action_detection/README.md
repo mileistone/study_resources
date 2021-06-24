@@ -23,6 +23,8 @@
     - early fusion
       - concatenate
 - [MM2020] [Deep Concept-wise Temporal Convolutional Networks for Action Localization](https://arxiv.org/abs/1908.09442)
+  - concept-wise temporal convolutional network
+    - depth-wise conv + parameter sharing
   - extract features via pre-trained temporal action recognition model
     - two-stream
   - one-stage
