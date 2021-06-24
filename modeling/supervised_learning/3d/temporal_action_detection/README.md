@@ -66,6 +66,9 @@
 #### Proposal Generation
 ##### 2021
 - [CVPR2021] [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141)
+  - extract features via pre-trained temporal action recognition model
+    - two-stream
+  - RGB + optical flow
 - [AAAI2021] [BSN++: Complementary Boundary Regressor with Scale-Balanced Relation Modeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641)
 
 ##### 2020
