@@ -91,18 +91,27 @@
 ##### 2018
 - [ECCV2018] [BSN: Boundary Sensitive Network for Temporal Action Proposal Generation](https://arxiv.org/abs/1806.02964)
 - [ECCV2018] [CTAP: Complementary Temporal Action Proposal Generation](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiyang_Gao_CTAP_Complementary_Temporal_ECCV_2018_paper.pdf)
-- [CVPR2018] [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
 
 ##### Detection
+##### 2021
 - [CVPR2021] [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
   - propose the first purely anchor-free temporal localization method
   - RGB + optical flow
     - late fusion
       - average location and classification score
+
+##### 2020
 - [AAAI2020] [Progressive Boundary Refinement Network for Temporal Action Detection](https://ojs.aaai.org//index.php/AAAI/article/view/6829)
   - RGB + optical flow
     - late fusion
       - average location and classification score
+
+##### 2018
+- [CVPR2018] [Rethinking the Faster R-CNN Architecture for Temporal Action Localization](https://arxiv.org/abs/1804.07667)
+  - extract features via pre-trained temporal action recognition model
+    - two-stream
+  - RGB + optical flow
+   
 ##### 2017
 - [ICCV2017] [R-C3D: Region Convolutional 3D Network for Temporal Activity Detection](https://arxiv.org/abs/1703.07814)
 
