@@ -73,6 +73,9 @@
 
 ##### 2020
 - [ECCV2020] [Bottom-Up Temporal Action Localization with Mutual Regularization](https://arxiv.org/abs/2002.07358)
+  - extract features via pre-trained temporal action recognition model
+    - two-stream
+  - RGB + optical flow
 - [ECCV2020] [Boundary Content Graph Neural Network for Temporal Action Proposal Generation](https://arxiv.org/abs/2008.01432)
 - [AAAI2020] [Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network](https://arxiv.org/abs/2003.04145)
 - [AAAI2020] [Fast Learning of Temporal Action Proposal via Dense Boundary Generator](https://arxiv.org/abs/1911.04127)
