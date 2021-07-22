@@ -58,6 +58,7 @@ End to End Object Detection](https://arxiv.org/pdf/1509.04874)
 evidence for bottom-up object detection](https://arxiv.org/abs/2007.02355)
 
 ## End-to-end
+- [CVPR2021] [End-to-End Object Detection with Fully Convolutional Network](https://arxiv.org/abs/2012.03544)
 
 - [2005.12872] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) 
 
