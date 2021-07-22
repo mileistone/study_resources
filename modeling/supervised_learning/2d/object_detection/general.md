@@ -40,6 +40,8 @@
 
 ## Anchor free
 
+- [2107.08430] [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430)
+
 - [1903.00621] [Feature selective anchor-free module for single-shot object detection](https://arxiv.org/abs/1903.00621)
 
 - [1904.01355] [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355)
