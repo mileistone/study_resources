@@ -10,6 +10,10 @@
 
 - [2004.10934] [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
 
+- [CVPR2020] [D2Det: Towards High Quality Object Detection and Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf)
+
+- [CVPR2020] [Rethinking Classification and Localization for Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Rethinking_Classification_and_Localization_for_Object_Detection_CVPR_2020_paper.pdf)
+
 - [1911.09070] [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
 
 - [1911.08287] [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287)
