@@ -8,7 +8,7 @@ Prediction for Object Detection](https://arxiv.org/abs/2007.08103)
 
 [1912.05086] [Learning from Noisy Anchors for One-stage Object Detection](https://arxiv.org/abs/1912.05086)
 
-[1912.02424] [Bridging the Gap Between Anchor-based and Anchor-free Detection via
+[CVPR2020] [Bridging the Gap Between Anchor-based and Anchor-free Detection via
 Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)
 
 [1911.12448] [Soft Anchor-Point Object Detection](https://arxiv.org/abs/1911.12448) # SAPD
