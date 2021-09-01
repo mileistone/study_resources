@@ -10,7 +10,7 @@
 - [Scale-Aware Automatic Augmentation for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scale-Aware_Automatic_Augmentation_for_Object_Detection_CVPR_2021_paper.html)
 
 #### ICCV
-[DetCo: Unsupervised Contrastive Learning for Object Detection](https://arxiv.org/abs/2102.04803)
+- [DetCo: Unsupervised Contrastive Learning for Object Detection](https://arxiv.org/abs/2102.04803)
 
 ### 2020
 #### CVPR
