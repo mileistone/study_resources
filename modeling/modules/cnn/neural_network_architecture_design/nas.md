@@ -1,7 +1,5 @@
 # Automated
 
-- [1911.09070] [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
-
 - [1907.09595] [MixNet: Mixed Depthwise Convolutional Kernels
 ](https://arxiv.org/abs/1907.09595)
 
@@ -18,6 +16,10 @@
 - [1903.10979] [DetNAS: Backbone Search for Object Detection](https://arxiv.org/abs/1903.10979)
 
 - [1901.02985] [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985)
+
+## 2018
+
+- [ICML2018] [Understanding and Simplifying One-Shot Architecture Search](https://proceedings.mlr.press/v80/bender18a/bender18a.pdf)
 
 - [1812.08934] [ChamNet: Towards Efficient Network Design through Platform-Aware Model
 Adaptation](https://arxiv.org/abs/1812.08934)
