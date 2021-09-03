@@ -20,4 +20,6 @@
 
 - [CVPRW2019] [Non-discriminative data or weak model? On the relative importance of data and model resolution](http://openaccess.thecvf.com/content_ICCVW_2019/html/RLQ/Sandler_Non-Discriminative_Data_or_Weak_Model_On_the_Relative_Importance_of_ICCVW_2019_paper.html)
 
+- [ICLR2017] [HyperNetworks](https://arxiv.org/abs/1609.09106)
+
 
