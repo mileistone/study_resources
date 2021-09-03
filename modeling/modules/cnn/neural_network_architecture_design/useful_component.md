@@ -42,6 +42,7 @@ Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org
 ##### 2016
 - [1611.07661] [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 - [1603.05201] [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201) # CReLU
+- [ECCV2016] [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382)
 
 ##### 2015
 - [1502.03167] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
