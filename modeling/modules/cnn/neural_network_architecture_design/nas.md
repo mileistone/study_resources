@@ -21,6 +21,8 @@
 
 - [ICML2018] [Understanding and Simplifying One-Shot Architecture Search](https://proceedings.mlr.press/v80/bender18a/bender18a.pdf)
 
+- [ICLR2018] [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344)
+
 - [1812.08934] [ChamNet: Towards Efficient Network Design through Platform-Aware Model
 Adaptation](https://arxiv.org/abs/1812.08934)
 
