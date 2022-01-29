@@ -14,3 +14,4 @@
 
 #### 2018
 - [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458)
+- [CVPR2018] [Low-Shot Learning with Imprinted Weights](https://arxiv.org/abs/1712.07136)
