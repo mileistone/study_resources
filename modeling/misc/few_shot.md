@@ -11,3 +11,6 @@
 
 #### 2019
 - [ICLR2019] [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232)
+
+#### 2018
+- [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458)
