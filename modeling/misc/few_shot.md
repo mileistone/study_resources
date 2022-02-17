@@ -9,6 +9,7 @@
 #### 2020
 - [2003.11539] [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
 - [ECCV2020] [Impact of base dataset design on few-shot image classification](https://arxiv.org/abs/2007.08872)
+- [ICLR2020] [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://openreview.net/forum?id=rkgAGAVKPr)
 
 #### 2019
 - [ICLR2019] [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232)
