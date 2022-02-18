@@ -7,7 +7,7 @@
 - [2109.04898] [LibFewShot: A Comprehensive Library for Few-shot Learning](https://arxiv.org/abs/2109.04898)
 
 #### 2020
-- [2003.11539] [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
+- [ECCV2020] [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539)
 - [ECCV2020] [Impact of Base Dataset Design on Few-Shot Image Classification](https://arxiv.org/abs/2007.08872)
 - [ICLR2020] [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://openreview.net/forum?id=rkgAGAVKPr)
 
