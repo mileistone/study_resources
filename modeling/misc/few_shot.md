@@ -12,6 +12,7 @@
 - [ICLR2020] [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://openreview.net/forum?id=rkgAGAVKPr)
 
 #### 2019
+- [1904.05046] [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/abs/1904.05046)
 - [ICLR2019] [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232)
 
 #### 2018
