@@ -2,6 +2,7 @@
 - [2006.10029] [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [2002.05709] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 - [CVPR2020] [How Useful is Self-Supervised Pretraining for Visual Tasks?](https://arxiv.org/abs/2003.14323)
+- [ICLR2020] [A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark](https://arxiv.org/abs/1910.04867)
 
 ##### 2019
 - [CVPR2019] [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
