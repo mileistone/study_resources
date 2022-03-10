@@ -10,7 +10,6 @@
 - [2004.08955] [ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955)
 
 ##### 2019
-- [CVPR2019] [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925)
 - [1911.09737] [Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks](https://arxiv.org/abs/1911.09737)
 - [1908.01259] [Attentive Normalization](https://arxiv.org/abs/1908.01259)
 - [1906.02629] [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)
@@ -20,6 +19,8 @@
   - Octave conv 
   - should be compared with [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661)
 - [1904.04971] [Soft Conditional Computation](https://arxiv.org/abs/1904.04971)
+- [CVPR2019] [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925)
+- [NIPS2019] [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971)
 
 ##### 2018
 - [CVPR2018] [Non-local neural networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
