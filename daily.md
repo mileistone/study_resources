@@ -1,3 +1,9 @@
+### 2021-04-07
+#### JPEG
+- [Image-Compression-using-MATLAB-Project-Report](https://www.slideshare.net/kgaurav113/image-compression-using-matlab-project-report?next_slideshow=66007871)
+- [JEPG encoding](https://cseweb.ucsd.edu/classes/sp03/cse126/lecture/lecture5.pdf)
+- [JPEG Image Compression Systems](https://www.ece.ucdavis.edu/cerl/reliablejpeg/compression/)
+
 ### 2019-11-01
 - [Detectron1-Comparisons](https://github.com/facebookresearch/detectron2/tree/master/configs/Detectron1-Comparisons)
 
