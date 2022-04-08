@@ -1,3 +1,9 @@
+### 2021-04-08
+#### Pinned Memory / Page-Locked Memory
+- [PyTorch: How does pin_memory work in Dataloader](https://stackoverflow.com/questions/55563376/pytorch-how-does-pin-memory-work-in-dataloader)
+- [How to Optimize Data Transfers in CUDA C/C++](https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/)
+- [Page-Locked Host Memory for Data Transfer](https://leimao.github.io/blog/Page-Locked-Host-Memory-Data-Transfer/)
+
 ### 2021-04-07
 #### JPEG
 - [Image-Compression-using-MATLAB-Project-Report](https://www.slideshare.net/kgaurav113/image-compression-using-matlab-project-report?next_slideshow=66007871)
