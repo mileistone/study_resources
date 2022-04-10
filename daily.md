@@ -9,6 +9,7 @@
 - [Image-Compression-using-MATLAB-Project-Report](https://www.slideshare.net/kgaurav113/image-compression-using-matlab-project-report?next_slideshow=66007871)
 - [JEPG encoding](https://cseweb.ucsd.edu/classes/sp03/cse126/lecture/lecture5.pdf)
 - [JPEG Image Compression Systems](https://www.ece.ucdavis.edu/cerl/reliablejpeg/compression/)
+- [JPEG: Image compression algorithm](http://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html)
 - [PIL convert('ycbcr') gives different result from formula](https://github.com/python-pillow/Pillow/issues/4668)
 
 ### 2019-11-01
