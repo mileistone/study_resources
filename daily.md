@@ -1,10 +1,21 @@
-### 2021-04-08
+### 2022-04-19
+#### Stem design
+- [2201.09792][Patches Are All You Need?](https://arxiv.org/abs/2201.09792)
+- [NIPS2021][Early Convolutions Help Transformers See Better](https://proceedings.neurips.cc/paper/2021/hash/ff1418e8cc993fe8abcfe3ce2003e5c5-Abstract.html)
+- [CVPR2021][Fast and Accurate Model Scaling](https://openaccess.thecvf.com/content/CVPR2021/html/Dollar_Fast_and_Accurate_Model_Scaling_CVPR_2021_paper.html)
+- [ICCV2021][Incorporating Convolution Designs into Visual Transformers](http://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Incorporating_Convolution_Designs_Into_Visual_Transformers_ICCV_2021_paper.html)
+- [ICCV2021][Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Tokens-to-Token_ViT_Training_Vision_Transformers_From_Scratch_on_ImageNet_ICCV_2021_paper.html)
+- [2105.02723][Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet](https://arxiv.org/abs/2105.02723)
+- [ICCV2019 Workshop][Non-Discriminative Data or Weak Model? On the Relative Importance of Data and Model Resolution](https://openaccess.thecvf.com/content_ICCVW_2019/html/RLQ/Sandler_Non-Discriminative_Data_or_Weak_Model_On_the_Relative_Importance_of_ICCVW_2019_paper.html)
+- [2105.03404][ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/abs/2105.03404)
+
+### 2022-04-08
 #### Pinned Memory / Page-Locked Memory
 - [PyTorch: How does pin_memory work in Dataloader](https://stackoverflow.com/questions/55563376/pytorch-how-does-pin-memory-work-in-dataloader)
 - [How to Optimize Data Transfers in CUDA C/C++](https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/)
 - [Page-Locked Host Memory for Data Transfer](https://leimao.github.io/blog/Page-Locked-Host-Memory-Data-Transfer/)
 
-### 2021-04-07
+### 2022-04-07
 #### JPEG
 - [Image-Compression-using-MATLAB-Project-Report](https://www.slideshare.net/kgaurav113/image-compression-using-matlab-project-report?next_slideshow=66007871)
 - [JEPG encoding](https://cseweb.ucsd.edu/classes/sp03/cse126/lecture/lecture5.pdf)
