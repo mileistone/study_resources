@@ -8,6 +8,7 @@
 - [2105.02723][Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet](https://arxiv.org/abs/2105.02723)
 - [ICCV2019 Workshop][Non-Discriminative Data or Weak Model? On the Relative Importance of Data and Model Resolution](https://openaccess.thecvf.com/content_ICCVW_2019/html/RLQ/Sandler_Non-Discriminative_Data_or_Weak_Model_On_the_Relative_Importance_of_ICCVW_2019_paper.html)
 - [2105.03404][ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/abs/2105.03404)
+- [awesome-vit](https://github.com/open-mmlab/awesome-vit)
 
 ### 2022-04-08
 #### Pinned Memory / Page-Locked Memory
