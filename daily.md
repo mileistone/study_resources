@@ -3,6 +3,7 @@
 - [2204.07143][Neighborhood Attention Transformer](https://arxiv.org/abs/2204.07143)
 - [ICLR2022][MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
   - combine the strengths of CNNs and ViTs to build a light-weight and low latency network for mobile vision tasks
+- [NIPS2021][Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)
 
 ### 2022-04-19
 #### Stem design
