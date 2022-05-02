@@ -1,6 +1,7 @@
 ### 2022-05-02
 #### Model design
 - [ICLR2022] [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer][https://arxiv.org/abs/2110.02178]
+  - combine the strengths of CNNs and ViTs to build a light-weight and low latency network for mobile vision tasks
 
 ### 2022-04-19
 #### Stem design
