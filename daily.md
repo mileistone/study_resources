@@ -4,6 +4,7 @@
 - [ICLR2022][MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178)
   - combine the strengths of CNNs and ViTs to build a light-weight and low latency network for mobile vision tasks
 - [NIPS2021][Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)
+- [CVPR2021][Rethinking Channel Dimensions for Efficient Model Design](https://openaccess.thecvf.com/content/CVPR2021/html/Han_Rethinking_Channel_Dimensions_for_Efficient_Model_Design_CVPR_2021_paper.html)
 
 ### 2022-04-19
 #### Stem design
