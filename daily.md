@@ -1,3 +1,7 @@
+### 2022-05-02
+#### Model design
+- [ICLR2022] [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer][https://arxiv.org/abs/2110.02178]
+
 ### 2022-04-19
 #### Stem design
 - [2201.09792][Patches Are All You Need?](https://arxiv.org/abs/2201.09792)
