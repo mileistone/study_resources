@@ -8,6 +8,7 @@
   -  We show that the best performing scaling strategy depends on the training regime and offer two new scaling strategies: (1) scale model depth
 in regimes where overfitting can occur (width scaling is preferable otherwise); (2) increase image resolution more slowly than previously recommended 
 - [CVPR2021][Rethinking Channel Dimensions for Efficient Model Design](https://openaccess.thecvf.com/content/CVPR2021/html/Han_Rethinking_Channel_Dimensions_for_Efficient_Model_Design_CVPR_2021_paper.html)
+- [CVPR2020][Designing Network Design Spaces](https://arxiv.org/abs/2003.13678)
 
 ### 2022-04-19
 #### Stem design
