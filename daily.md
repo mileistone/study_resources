@@ -1,6 +1,7 @@
 ### 2022-05-07
 #### Efficient video classification
 - [CVPR2021] [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183)
+- [CVPR2019] [AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432)
 
 ### 2022-05-02
 #### Model design
