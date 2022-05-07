@@ -4,6 +4,7 @@
 - [CVPR2019] [AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432)
 
 #### Conditional cumputation
+- [CVPR2018] [Learning Strict Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1804.01661)
 - [ECCV2018] [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
   - Gumbel sampling
 - [CVPR2017] [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297)
