@@ -6,6 +6,7 @@
 #### Conditional cumputation
 - [ECCV2018] [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
 - [CVPR2017] [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297)
+  - mask is determined by a probability predicted by an extra head
 - [NIPS2016] [PerforatedCNNs: Acceleration through elimination of redundant convolutions](https://proceedings.neurips.cc/paper/2016/file/f0e52b27a7a5d6a1a87373dffa53dbe5-Paper.pdf)
   - mask is determined by gradient  
 
