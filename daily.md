@@ -5,6 +5,7 @@
 
 #### Conditional cumputation
 - [ECCV2018] [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
+- [CVPR2017] [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297)
 
 ### 2022-05-02
 #### Model design
