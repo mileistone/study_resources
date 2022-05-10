@@ -6,9 +6,12 @@
 ### 2022-05-07
 #### Efficient video classification
 - [CVPR2021][Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183)
-- [CVPR2019][AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432)
 - [BMVC2021][Conditional Model Selection for Efficient Video Understanding](https://www.bmvc2021-virtualconference.com/assets/papers/1376.pdf)
 - [CVPR2019][Efficient Video Classification Using Fewer Frames](https://openaccess.thecvf.com/content_CVPR_2019/html/Bhardwaj_Efficient_Video_Classification_Using_Fewer_Frames_CVPR_2019_paper.html)
+- [CVPR2019][AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432)
+  - reinforcement learning
+- [IJCAI2018][Watching a Small Portion could be as Good as Watching All: Towards Efficient Video Classification](https://www.ijcai.org/Proceedings/2018/0098.pdf)
+  - reinforcement learning
 
 #### Conditional cumputation
 - [CVPR2018][Learning Strict Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1804.01661)
