@@ -1,15 +1,19 @@
+### 2022-05-10
+#### Dropout, drop channel, drop path, drop layer
+- [1904.03392][Efficient and Effective Dropout for Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03392)
+
 ### 2022-05-07
 #### Efficient video classification
 - [CVPR2021] [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183)
 - [CVPR2019] [AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432)
 
 #### Conditional cumputation
-- [CVPR2018] [Learning Strict Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1804.01661)
-- [ECCV2018] [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
+- [CVPR2018][Learning Strict Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1804.01661)
+- [ECCV2018][Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
   - Gumbel sampling
-- [CVPR2017] [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297)
+- [CVPR2017][Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297)
   - mask is determined by a probability predicted by an extra head
-- [NIPS2016] [PerforatedCNNs: Acceleration through elimination of redundant convolutions](https://proceedings.neurips.cc/paper/2016/file/f0e52b27a7a5d6a1a87373dffa53dbe5-Paper.pdf)
+- [NIPS2016][PerforatedCNNs: Acceleration through elimination of redundant convolutions](https://proceedings.neurips.cc/paper/2016/file/f0e52b27a7a5d6a1a87373dffa53dbe5-Paper.pdf)
   - mask is determined by gradient  
 
 ### 2022-05-02
