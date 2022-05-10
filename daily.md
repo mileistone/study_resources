@@ -1,6 +1,7 @@
 ### 2022-05-10
 #### Dropout, drop channel, drop path, drop layer
 - [1904.03392][Efficient and Effective Dropout for Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03392)
+  - knowledge distillation
 
 ### 2022-05-07
 #### Efficient video classification
