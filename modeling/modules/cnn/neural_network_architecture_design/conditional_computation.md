@@ -3,6 +3,9 @@
 #### 2021
 - [2106.05974][Scaling Vision with Sparse Mixture of Experts](https://arxiv.org/abs/2106.05974)
 
+#### 2020
+- [CVPR2020][Resolution Adaptive Networks for Efficient Inference](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Resolution_Adaptive_Networks_for_Efficient_Inference_CVPR_2020_paper.pdf)
+
 #### 2019
 - [NIPS2019][CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://papers.nips.cc/paper/2019/hash/f2201f5191c4e92cc5af043eebfd0946-Abstract.html)
 
