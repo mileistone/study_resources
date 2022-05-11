@@ -15,6 +15,7 @@
 
 #### 2019
 - [NIPS2019][CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://papers.nips.cc/paper/2019/hash/f2201f5191c4e92cc5af043eebfd0946-Abstract.html)
+- [NIPS2019][Channel Gating Neural Networks](https://arxiv.org/abs/1805.12549)
 
 #### 2018
 - [1806.01531][Deep Mixture of Experts via Shallow Embedding](https://arxiv.org/abs/1806.01531)
