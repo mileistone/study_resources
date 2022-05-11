@@ -8,6 +8,9 @@
   - not suitable for GPU
 - [ECCV2020][Channel selection using Gumbel Softmax](https://arxiv.org/abs/1812.04180)
   - gumbel softmax
+- [ECCV2020][Spatially Adaptive Inference with Stochastic Feature Sampling and Interpolation](https://arxiv.org/abs/2003.08866)
+  - stochastic sampling through gumbel-sfotmax distribution
+  - selected by by L1 norm
 
 #### 2019
 - [NIPS2019][CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://papers.nips.cc/paper/2019/hash/f2201f5191c4e92cc5af043eebfd0946-Abstract.html)
