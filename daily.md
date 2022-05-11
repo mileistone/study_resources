@@ -7,6 +7,8 @@
 #### Efficient video classification
 - [CVPR2021][Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183)
 - [BMVC2021][Conditional Model Selection for Efficient Video Understanding](https://www.bmvc2021-virtualconference.com/assets/papers/1376.pdf)
+- [NIPS2020][]Glance and Focus: a Dynamic Approach to Reducing Spatial Redundancy in Image Classification(https://proceedings.neurips.cc/paper/2020/file/1963bd5135521d623f6c29e6b1174975-Paper.pdf)
+  - reinforcement learning
 - [CVPR2019][Efficient Video Classification Using Fewer Frames](https://openaccess.thecvf.com/content_CVPR_2019/html/Bhardwaj_Efficient_Video_Classification_Using_Fewer_Frames_CVPR_2019_paper.html)
 - [CVPR2019][AdaFrame: Adaptive Frame Selection for Fast Video Recognition](https://arxiv.org/abs/1811.12432)
   - reinforcement learning
