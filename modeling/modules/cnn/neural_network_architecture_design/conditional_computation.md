@@ -2,6 +2,7 @@
 
 #### 2021
 - [2106.05974][Scaling Vision with Sparse Mixture of Experts](https://arxiv.org/abs/2106.05974)
+- [2102.04906][Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)
 
 #### 2020
 - [CVPR2020][Resolution Adaptive Networks for Efficient Inference](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Resolution_Adaptive_Networks_for_Efficient_Inference_CVPR_2020_paper.pdf)
