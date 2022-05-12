@@ -5,6 +5,8 @@
 
 ### 2022-05-07
 #### Efficient video classification
+- [2002.03342][Dynamic Inference: A New Approach Toward Efficient Video Action Recognition](https://arxiv.org/abs/2002.03342)
+  - early stop from frames and depth perspective
 - [ICLR2021][AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition](https://arxiv.org/abs/2102.05775)
   - some like TSM
   - Gumbel-Softmax Estimator
