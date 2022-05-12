@@ -7,6 +7,8 @@
 #### Efficient video classification
 - [ICLR2021][VA-RED2: Video Adaptive Redundancy Reduction](https://arxiv.org/abs/2102.07887)
   - not suitable for GPU
+  - recognize redudandent feature map in temporal or channels
+  - L1 norm for redudandent factor
 - [ICCV2021][MGSampler: An Explainable Sampling Strategy for Video Action Recognition](https://arxiv.org/abs/2104.09952)
 - [ICCV2021][Adaptive Focus for Efficient Video Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Adaptive_Focus_for_Efficient_Video_Recognition_ICCV_2021_paper.pdf)
   - reinforcement learning
