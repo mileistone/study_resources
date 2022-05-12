@@ -5,6 +5,11 @@
 
 ### 2022-05-07
 #### Efficient video classification
+- [ICLR2021][AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition](https://arxiv.org/abs/2102.05775)
+  - some like TSM
+  - Gumbel-Softmax Estimator
+  - https://mengyuest.github.io/AdaFuse/
+  - not suitable for GPU
 - [ICLR2021][VA-RED2: Video Adaptive Redundancy Reduction](https://arxiv.org/abs/2102.07887)
   - not suitable for GPU
   - recognize redudandent feature map in temporal or channels
