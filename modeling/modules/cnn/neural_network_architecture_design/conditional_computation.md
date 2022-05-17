@@ -12,6 +12,7 @@
 - [ECCV2020][Spatially Adaptive Inference with Stochastic Feature Sampling and Interpolation](https://arxiv.org/abs/2003.08866)
   - stochastic sampling through gumbel-sfotmax distribution
   - selected by by L1 norm
+  - https://github.com/zdaxie/SpatiallyAdaptiveInference-Detection
 
 #### 2019
 - [NIPS2019][CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://papers.nips.cc/paper/2019/hash/f2201f5191c4e92cc5af043eebfd0946-Abstract.html)
