@@ -10,6 +10,9 @@
 
 - [Google AI education](https://ai.google/education/)
 
+- [MIT Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/#block-v1:MITx+6.036+1T2019+type@sequential+block@recommender_systems)
+  - RL course is very good. 
+
 # Deep learning
 
 - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
