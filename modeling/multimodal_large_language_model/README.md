@@ -12,3 +12,4 @@
 
 ### Slides
 - [Multimodal-Deep-Learning-CS224n-Kiela](https://web.stanford.edu/class/cs224n/slides/Multimodal-Deep-Learning-CS224n-Kiela.pdf)
+- [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
