@@ -1,4 +1,4 @@
-
+### Paper
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 - [2306.17107] [LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding](https://arxiv.org/abs/2306.17107)
 - [2306.13549] [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
@@ -9,3 +9,6 @@
 - [2304.10592] [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592)
 - [2304.08485] [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) # LLaVA
 - [2301.12597] [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
+
+### Slides
+- [Multimodal-Deep-Learning-CS224n-Kiela](https://web.stanford.edu/class/cs224n/slides/Multimodal-Deep-Learning-CS224n-Kiela.pdf)
