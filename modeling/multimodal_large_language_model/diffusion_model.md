@@ -1,0 +1,2 @@
+- [CVPR2023 tutorial] [Denoising Diffusion Models: A Generative Learning Big Bang](https://cvpr.thecvf.com/virtual/2023/tutorial/18546)
+- [CVPR2022 tutorial] [Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://cvpr2022-tutorial-diffusion-models.github.io/)
