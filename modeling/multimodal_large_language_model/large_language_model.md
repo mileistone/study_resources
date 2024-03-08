@@ -1,4 +1,11 @@
-- [2305.13245] [GQA: Training Generalized Multi-Query Transformer Models from
-Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245)
 - [2307.09288] [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+  - context length 2048 -> 4096
+  - GQA for large model
+- [2305.13245] [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245)
 - [2302.13971] [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+  - SwiGLU
+  - RMSNorm
+  - Pre-normalization
+  - RoPE
+- [2104.09864] [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864)
+  - RoPE
