@@ -1,5 +1,6 @@
 ### Paper
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [2402.07865] [Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models](https://arxiv.org/abs/2402.07865)
 - [2401.06209] [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)
   - use dino and clip visual features
 - [2312.07533] [VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533)
